@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { TextInput } from "react-native";
 
-import { StateContext } from '../provider/StateProvider.js';
+import { StateContext } from '../provider/StateProvider.jsx';
 
 import styles from "../styles";
 

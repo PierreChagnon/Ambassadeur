@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { Pressable, Text, View } from "react-native";
 
+import CustomText from "./CustomText";
+
 import styles from "../styles";
 
 export default function ({handleHelpClick}) {
@@ -26,15 +28,13 @@ export default function ({handleHelpClick}) {
 
     return (
         <Pressable
-            style={styles.help_button_container}
             onPressIn={handlePressIn}
             onPressOut={handlePressOut}>
             <View style={[styles.help_button, { transform: [{ translateY: translateY }] }]} >
-                <Text style={{fontSize:18, fontWeight:"bold"}}>
-                    ?
-                </Text>
+                <CustomText color="#127299" >
+                    Comment jouer?
+                </CustomText>
             </View>
-            <View style={[styles.help_button, { position: "absolute", top: 4, zIndex: -1, backgroundColor: "#9b9b9b" }]} />
         </Pressable>
     )
 }

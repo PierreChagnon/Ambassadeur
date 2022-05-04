@@ -10,6 +10,7 @@ import WordsList from './screens/WordsList';
 import GameSettings from './screens/GameSettings';
 import GameScreen from './screens/GameScreen';
 import GameOverScreen from './screens/GameOverScreen';
+import StartScreen from './screens/StartScreen';
 
 import { StateProvider } from './provider/StateProvider';
 
@@ -22,8 +23,9 @@ const MyStack = () => {
       <Stack.Screen name="Teams" component={Teams} />
       <Stack.Screen name="WordsList" component={WordsList} />
       <Stack.Screen name="GameSettings" component={GameSettings} />
-      <Stack.Screen name="GameScreen" component={GameScreen} />
-      <Stack.Screen name="GameOverScreen" component={GameOverScreen} />
+      <Stack.Screen name="StartScreen" component={StartScreen} />
+      <Stack.Screen name="GameScreen" component={GameScreen} options={{ gestureEnabled: false }} />
+      <Stack.Screen name="GameOverScreen" component={GameOverScreen} options={{ gestureEnabled: false }} />
     </Stack.Navigator>
   )
 }

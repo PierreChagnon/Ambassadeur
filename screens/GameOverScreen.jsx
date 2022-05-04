@@ -1,8 +1,8 @@
-import React, { useContext } from "react";
-import { Text, View } from "react-native";
+import React, { useContext, useEffect, useState } from "react";
+import { View } from "react-native";
 
-import LinearGradientBackground from "../LinearGradientBackground";
 import BottomButton from "../components/BottomButton"
+import CustomText from "../components/CustomText";
 
 import { StateContext } from "../provider/StateProvider";
 
@@ -10,34 +10,45 @@ import styles from "../styles";
 
 export default function ({ navigation }) {
     const state = useContext(StateContext)
+    const [quitState, setQuitState] = useState()
+
+
+    useEffect(() => {
+        if (quitState) {
+            navigation.navigate("GameMasterHandler")
+            return handleQuit();
+        } else if (quitState === false) {
+            navigation.navigate("Teams");
+            return handleReplay();
+        }
+    }, [quitState])
 
     const handleReplay = () => {
-        navigation.navigate("Teams");
+        setQuitState(false)
 
         //Reset states
         state.setNumberOfWords(10);
         state.setDifficulty(1);
+        state.setWordsList(["", "", "", "", ""])
     }
 
     const handleQuit = () => {
-        navigation.navigate("GameMasterHandler")
+        setQuitState(true)
 
         //Reset states
         state.setGameMaster(null);
         state.setPlayerList(["", "", "", "", ""]);
-        state.setUpTeamName("");
-        state.setDownTeamName("");
         state.setWordsList(["", "", "", "", ""]);
         state.setNumberOfWords(10);
         state.setDifficulty(1);
     }
 
     return (
-        <LinearGradientBackground>
+        <View style={[styles.container, state.winner === "jaune" ? { backgroundColor: "#F2BB08" } : {}]}>
             <View style={styles.gameover_top_container}>
-                <Text style={styles.game_UI_text}>
+                <CustomText >
                     L'équipe {state.winner} a gagné !
-                </Text>
+                </CustomText>
             </View>
             <View style={styles.gameover_bot_container}>
                 <BottomButton next={handleReplay} width={150} height={100}>
@@ -47,6 +58,6 @@ export default function ({ navigation }) {
                     Quitter
                 </BottomButton>
             </View>
-        </LinearGradientBackground>
+        </View>
     )
 }

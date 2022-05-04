@@ -5,11 +5,9 @@ const StateContext = createContext();
 const StateProvider = (props) => {
 
     const [gameMaster, setGameMaster] = useState(null)
-    const [playerList, setPlayerList] = useState(["", "", "", "", ""])
+    const [playerList, setPlayerList] = useState(["", "", "", ""])
     const [upTeam, setUpTeam] = useState([])
     const [downTeam, setDownTeam] = useState([])
-    const [upTeamName, setUpTeamName] = useState("")
-    const [downTeamName, setDownTeamName] = useState("")
     const [wordsList, setWordsList] = useState(["", "", "", "", ""])
     const [numberOfWords, setNumberOfWords] = useState(10)
     const [difficulty, setDifficulty] = useState(1)
@@ -26,10 +24,6 @@ const StateProvider = (props) => {
                 setUpTeam,
                 downTeam,
                 setDownTeam,
-                upTeamName,
-                setUpTeamName,
-                downTeamName,
-                setDownTeamName,
                 wordsList,
                 setWordsList,
                 numberOfWords,
