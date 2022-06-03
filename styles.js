@@ -75,7 +75,7 @@ export default StyleSheet.create({
     },
     bottom_button_container: {
         position: "absolute",
-        bottom: 20,
+        bottom: 30
     },
     bottom_button: {
         borderRadius: 25,
