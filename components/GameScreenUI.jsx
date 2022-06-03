@@ -32,8 +32,11 @@ export default function ({ list, handleButtonClick, count, teamName, numberOfWor
             setTouch(true)
             setTimeout(() => { setTouch(false) }, 4000)
         }
-        return () => { clearTimeout(timeout)}
-    }, [count])
+        return () => {
+            clearTimeout(timeout)
+            //console.log("gameScreenUI unmounted")
+        }
+    }, [])
 
 
 

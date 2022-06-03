@@ -47,7 +47,9 @@ export default StyleSheet.create({
         flex: 1,
     },
     scrollview_inner: {
-        alignItems: "center"
+        alignItems: "center",
+        paddingLeft: 10,
+        paddingRight: 10
     },
     floating_button: {
         width: 60,

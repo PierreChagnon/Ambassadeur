@@ -83,7 +83,6 @@ export default function ({ navigation }) {
     }
 
     const handleCloseModal = () => {
-        console.log("fermer")
         setErrorShow(false)
     }
     return (
@@ -115,7 +114,7 @@ export default function ({ navigation }) {
                     FORMER LES EQUIPES
                 </BottomButton>
             </View>
-           {errorShow && <ErrorModal visible={errorShow}  handleCloseModal={handleCloseModal}>Rentrez au moins 4 noms de joueurs.</ErrorModal>}
+            {errorShow && <ErrorModal visible={errorShow} handleCloseModal={handleCloseModal}>Rentrez au moins 4 noms de joueurs.</ErrorModal>}
         </LinearGradientBackground>
     )
 }
