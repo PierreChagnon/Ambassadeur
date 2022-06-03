@@ -11,18 +11,31 @@ import { StateContext } from "../provider/StateProvider";
 import styles from "../styles";
 
 
-export default function ({ navigation, teamName, numberOfWords, reverse = false }) {
+export default function ({ list, handleButtonClick, count, teamName, numberOfWords, reverse = false }) {
 
     const state = useContext(StateContext)
-
     const [touch, setTouch] = useState(true)
-    const [count, setCount] = useState(numberOfWords)
 
+    //useEffect dans le cas du premier mot (count encore égale à numberOfWords)
     useEffect(() => {
-        if(count===numberOfWords){
-            setTimeout(() => {setTouch(!touch)}, 4000)
+        let timeout = null
+        if (count === numberOfWords) {
+            setTimeout(() => { setTouch(!touch) }, 4000)
         }
+        return () => { clearTimeout(timeout) }
     }, [])
+
+    //useEffect dans le cas des mots suivants
+    useEffect(() => {
+        let timeout = null
+        if (state.gameMaster) {
+            setTouch(true)
+            setTimeout(() => { setTouch(false) }, 4000)
+        }
+        return () => { clearTimeout(timeout)}
+    }, [count])
+
+
 
     let [fontsLoaded, error] = useFonts({
         "Megalopolis-Extra": require('../assets/fonts/MegalopolisExtra-Regular.otf'),
@@ -34,14 +47,6 @@ export default function ({ navigation, teamName, numberOfWords, reverse = false 
         return <AppLoading />
     }
 
-    const handleButtonClick = () => {
-        setCount(count - 1)
-
-        if (count === 1) {
-            state.setWinner(teamName)
-            navigation.navigate("GameOverScreen")
-        }
-    }
 
 
     return (
@@ -58,7 +63,7 @@ export default function ({ navigation, teamName, numberOfWords, reverse = false 
                         / {numberOfWords}
                     </Text>
                 </View>
-                <View style={{height:72}}>
+                <View style={{ height: 72 }}>
                     <Text allowFontScaling={false} style={
                         [
                             { fontSize: 36, color: "#EDFFEC", fontFamily: "Candela" },
@@ -67,10 +72,10 @@ export default function ({ navigation, teamName, numberOfWords, reverse = false 
                             //Elle est par défaut à 36 pour pouvoir "accueillir" une fontSize à 36 sans bouger les éléments autour.
                         ]
                     }>
-                        {touch ? state.wordsList[count - 1] : "Touche pour voir le mot"}
+                        {touch ? list[count - 1] : "Touche ici pour voir le mot"}
                     </Text>
                 </View>
-                <BottomButton next={handleButtonClick}>
+                <BottomButton next={() => { handleButtonClick(teamName, list[count - 1]) }}>
                     MOT TROUVÉ
                 </BottomButton>
             </View>

@@ -73,7 +73,7 @@ export default StyleSheet.create({
     },
     bottom_button_container: {
         position: "absolute",
-        bottom: 20
+        bottom: 20,
     },
     bottom_button: {
         borderRadius: 25,
@@ -261,5 +261,35 @@ export default StyleSheet.create({
         height: "70%",
         display: "flex",
         justifyContent: "space-around",
+    },
+    game_modal_container: {
+        backgroundColor: 'rgba(0,0,0,0.5)',
+        position: "absolute",
+        justifyContent: "center",
+        alignItems: "center"
+    },
+    game_modal_view: {
+        backgroundColor: "white",
+        margin: 20,
+        padding: 35,
+        borderRadius: 4,
+        justifyContent: "space-around",
+        alignItems: "center",
+        display: "flex",
+        width: "80%",
+        height: "80%",
+    },
+    game_modal_input: {
+        backgroundColor: "#E92E2A",
+        width: "100%",
+        height: 100,
+        justifyContent: "center",
+        alignItems: "center",
+        padding: 5,
+        borderRadius: 4,
+    },
+    game_modal_input_text: {
+        fontSize: 20,
+        color: "#EDFFEC"
     }
 });

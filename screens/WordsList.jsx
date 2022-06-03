@@ -6,6 +6,7 @@ import WordInput from "../components/WordInput";
 import LinearGradientBackground from "../LinearGradientBackground";
 import ListContainer from "../ListContainer";
 import Title from "../components/Title"
+import FloatingButton from "../components/FloatingButton";
 
 import pickOneWord from "../services/pickOneWord";
 
@@ -18,12 +19,13 @@ export default function ({ navigation }) {
     const [disableErase, setDisableErase] = useState(false)
 
     useEffect(() => {
-        if (state.wordsList.length < 5) {
+        if (state.wordsList.length <= 1) {
             setDisableErase(true)
         } else {
             setDisableErase(false)
         }
     }, [state.wordsList])
+
 
     const handleWordInput = (value, i) => {
         const word = value;
@@ -54,10 +56,22 @@ export default function ({ navigation }) {
 
     const onBottomButtonClick = () => {
         if (state.wordsList.includes("")) {
-
+            const list = [...state.wordsList]
+            const temp = list
+            for (let i = 0; i < list.length; i++) {
+                const element = list[i];
+                if (element === "") {
+                    temp.splice(i, 1)
+                }
+            }
+           
+            if (temp.length > 0) {
+                state.setWordsList(temp)
+                state.setNumberOfWords(temp.length)
+                navigation.navigate('StartScreen');
+            }
         } else {
             state.setNumberOfWords(state.wordsList.length)
-
             navigation.navigate('StartScreen');
         }
 
@@ -87,6 +101,9 @@ export default function ({ navigation }) {
                         )
                     })}
                 </ListContainer>
+                <View style={styles.floating_button_container}>
+                    <FloatingButton handleAddClick={handleAddClick} />
+                </View>
             </View>
             <View style={styles.footer}>
                 <BottomButton next={onBottomButtonClick}>

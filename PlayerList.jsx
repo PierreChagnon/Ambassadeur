@@ -6,16 +6,20 @@ import ListContainer from './ListContainer.jsx';
 import BottomButton from './components/BottomButton.jsx';
 import WordInput from './components/WordInput.jsx';
 import Title from './components/Title.jsx';
+import FloatingButton from "./components/FloatingButton";
+import ErrorModal from './components/ErrorModal.jsx';
 
 import { StateContext } from './provider/StateProvider.jsx';
 
 import shuffleArray from "./services/shuffleArray"
 import styles from './styles.js';
 
+
 export default function ({ navigation }) {
 
     const state = useContext(StateContext)
     const [disableErase, setDisableErase] = useState(false)
+    const [errorShow, setErrorShow] = useState(false)
 
     useEffect(() => {
         if (state.playerList.length < 5) {
@@ -42,21 +46,19 @@ export default function ({ navigation }) {
 
         //delete blanck input from player list and check if there is still at least 4 inputs.
         const list = [...state.playerList] //list est une copie du state sur laquelle on fera les opérations
-
+        const temp = list
         for (let i = 0; i < list.length; i++) {
             const element = list[i];
             if (element === "") {
-                list.splice(i, 1)
+                temp.splice(i, 1)
             }
         }
 
-        if (list.length < 4) {
-            //Do nothing
+        if (temp.length < 4) {
+            //Error message
+            setErrorShow(true)
         } else {
-            //update state
-            //console.log(list)
-            state.setPlayerList(list)
-
+            state.setPlayerList(temp)
             //Shuffle list
             const shuffledList = shuffleArray(list);
 
@@ -80,6 +82,10 @@ export default function ({ navigation }) {
         state.setPlayerList(list);
     }
 
+    const handleCloseModal = () => {
+        console.log("fermer")
+        setErrorShow(false)
+    }
     return (
         <LinearGradientBackground>
             <View style={styles.header}>
@@ -100,12 +106,16 @@ export default function ({ navigation }) {
                             handleErase={handleErase} />
                     })}
                 </ListContainer>
+                <View style={styles.floating_button_container}>
+                    <FloatingButton handleAddClick={handleAddClick} />
+                </View>
             </View>
             <View style={styles.footer}>
                 <BottomButton next={onBottomButtonClick} >
                     FORMER LES EQUIPES
                 </BottomButton>
             </View>
+           {errorShow && <ErrorModal visible={errorShow}  handleCloseModal={handleCloseModal}>Rentrez au moins 4 noms de joueurs.</ErrorModal>}
         </LinearGradientBackground>
     )
 }

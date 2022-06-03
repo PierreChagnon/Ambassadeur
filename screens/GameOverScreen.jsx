@@ -10,37 +10,21 @@ import styles from "../styles";
 
 export default function ({ navigation }) {
     const state = useContext(StateContext)
-    const [quitState, setQuitState] = useState()
-
-
-    useEffect(() => {
-        if (quitState) {
-            navigation.navigate("GameMasterHandler")
-            return handleQuit();
-        } else if (quitState === false) {
-            navigation.navigate("Teams");
-            return handleReplay();
-        }
-    }, [quitState])
 
     const handleReplay = () => {
-        setQuitState(false)
-
-        //Reset states
-        state.setNumberOfWords(10);
-        state.setDifficulty(1);
-        state.setWordsList(["", "", "", "", ""])
-    }
-
-    const handleQuit = () => {
-        setQuitState(true)
-
-        //Reset states
-        state.setGameMaster(null);
-        state.setPlayerList(["", "", "", "", ""]);
+        navigation.navigate("Teams");
         state.setWordsList(["", "", "", "", ""]);
         state.setNumberOfWords(10);
         state.setDifficulty(1);
+    }
+
+    const handleQuit = () => {
+        navigation.navigate("GameMasterHandler")
+        state.setWordsList(["", "", "", "", ""]);
+        state.setNumberOfWords(10);
+        state.setDifficulty(1);
+        state.setPlayerList(["", "", "", ""]);
+
     }
 
     return (

@@ -1,8 +1,8 @@
 import React from "react";
-import { Text } from "react-native"
+import { Text, View } from "react-native"
 import { useFonts } from "expo-font";
 
-import AppLoading from "expo-app-loading";
+//import AppLoading from "expo-app-loading";
 
 import styles from "../styles"
 
@@ -13,7 +13,8 @@ export default function ({ children, color = "#EDFFEC", lineHeight = 36 }) {
     })
 
     if (!fontsLoaded) {
-        return <AppLoading />
+        //AppLoading bug : https://stackoverflow.com/questions/68823075/error-no-native-splash-screen-registered-for-given-view-controller-for-react-n
+        return <View />
     }
 
     return (

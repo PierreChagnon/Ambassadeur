@@ -1,17 +1,18 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { Text, TouchableOpacity, View, useWindowDimensions } from "react-native";
 
 import styles from "../styles.js"
 
 import { useFonts } from "expo-font";
 
-import AppLoading from "expo-app-loading";
+//import AppLoading from "expo-app-loading";
 
 export default function ({ width = 300, next, children, height = 90, absolutePosition = false }) {
+    const isMountedVal = useRef(1);
     const window = useWindowDimensions();
     const [translateY, setTranslateY] = useState(0);
     const [backgroundColor, setBackgroundColor] = useState("#E92E2A")
-
+    let anim = null; //requestAnimattionFrame ID
     ///////////////////////////////////////////////////////////////////////////////////////
     //SOLUTION POUR RENDRE LA TAILLE DES BOUTONS RESPONSIVE SUIVANT LA TAILLE DE L'ECRAN///
     //Pour adapter height des boutons sur mon portable pour les autres écrans
@@ -27,16 +28,35 @@ export default function ({ width = 300, next, children, height = 90, absolutePos
         "Megalopolis-Extra": require('../assets/fonts/MegalopolisExtra-Regular.otf')
     })
 
+    useEffect(() => {
+        isMountedVal.current = 1;
+        return () => {
+
+            isMountedVal.current = 0;
+            //tester si la ligne qui suit est toujours utile
+            //car le useRef fait peut etre deja tampon
+            cancelAnimationFrame(anim) //Arrete l'animation quand le composant est démonté
+        }
+    }, [])
+
     if (!fontsLoaded) {
-        return <AppLoading />
+        //AppLoading bug : https://stackoverflow.com/questions/68823075/error-no-native-splash-screen-registered-for-given-view-controller-for-react-n
+        return <View />
     }
 
     let y = 5;
+
+    //RESOLU : https://akashmittal.com/cant-perform-react-state-update-unmounted-component/
+    //EST la cause du bug cant perform react state update
+    //En fait le state setTranslateY des boutons des fenetres modales
+    //continue de se mettre a jour alors que la fenetre est démontée.
     const move = () => {
-        y = y - 0.5;
-        setTranslateY(y)
-        if (y > 0) {
-            requestAnimationFrame(move)
+        if (isMountedVal.current) {
+            y = y - 0.5;
+            setTranslateY(y)
+            if (y > 0) {
+                anim = requestAnimationFrame(move)
+            }
         }
     }
 
@@ -46,7 +66,9 @@ export default function ({ width = 300, next, children, height = 90, absolutePos
     }
 
     const handlePressOut = () => {
-        requestAnimationFrame(move);
+
+        anim = requestAnimationFrame(move);
+
         setBackgroundColor("#E92E2A")
         next(); // props pour passer a la page suivante
     }
@@ -58,7 +80,7 @@ export default function ({ width = 300, next, children, height = 90, absolutePos
             style={[absolutePosition ? styles.bottom_button_container : "", { height: realHeight }]}
         >
             <View style={[styles.bottom_button, { transform: [{ translateY: translateY }], height: realHeight, backgroundColor: backgroundColor, width: realWidth }]} >
-                <Text allowFontScaling={false} style={[styles.button_text, { fontFamily: "Megalopolis-Extra" }]}>
+                <Text allowFontScaling={false} style={[styles.button_text, { fontFamily: "Megalopolis-Extra", textAlign: "center" }]}>
                     {children}
                 </Text>
             </View>

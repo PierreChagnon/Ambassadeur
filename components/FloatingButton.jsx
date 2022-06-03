@@ -32,7 +32,7 @@ export default function ({ handleAddClick }) {
             activeOpacity={0.8}
             style={[styles.floating_button, { transform: [{ translateY: translateY }] }]}
         >
-            <Text style={{ color: "#127299", fontSize: 48, height: 60, }}>
+            <Text allowFontScaling={false} style={{ color: "#127299", fontSize: 48, height: 60, }}>
                 +
             </Text>
         </TouchableOpacity>

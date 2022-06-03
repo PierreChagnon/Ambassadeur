@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { View, Dimensions } from "react-native";
 import Chip from "./Chip";
 import Title from "./Title"
@@ -6,6 +6,19 @@ import Title from "./Title"
 import styles from "../styles";
 
 export default function ({ team, playerList }) {
+    const [teamComp, setTeamComp] = useState([])
+    
+    //avoid black chip
+    useEffect(() => {
+        const list = [...playerList]
+        for (let i = 0; i < playerList.length; i++) {
+            const element = playerList[i];
+            if (element === "") {
+                list.splice(i, 1)
+            }
+        }
+        setTeamComp(list)
+    }, [])
     // console.log(team, playerList)
     let xOffset = 30
     if (playerList.length > 6) {
@@ -28,7 +41,7 @@ export default function ({ team, playerList }) {
             style={styles.team_container}
             pointerEvents='box-none'>
             <Title>{team}</Title>
-            {playerList.map((name, i) => {
+            {teamComp.map((name, i) => {
 
                 let column
                 let row = i
