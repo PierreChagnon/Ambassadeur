@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, TouchableOpacity, Image } from 'react-native';
+import { TouchableOpacity, Image } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 
 import LinearGradientBackground from './LinearGradientBackground.jsx';

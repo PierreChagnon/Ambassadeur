@@ -1,0 +1,277 @@
+[{
+        "mot": "Action man",
+        "difficulté": 2
+    },
+    {
+        "mot": "Aéroglisseur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Allumette",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ampli",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ampoule",
+        "difficulté": 2
+    },
+    {
+        "mot": "Anabolysants",
+        "difficulté": 4
+    },
+    {
+        "mot": "Appareil photo",
+        "difficulté": 1
+    },
+    {
+        "mot": "Aquarium",
+        "difficulté": 1
+    },
+    {
+        "mot": "Arbalète",
+        "difficulté": 2
+    },
+    {
+        "mot": "Armoire à glace",
+        "difficulté": 2
+    },
+    {
+        "mot": "Arrosoir",
+        "difficulté": 1
+    },
+    {
+        "mot": "Aspirateur",
+        "difficulté": 1
+    },
+    {
+        "mot": "Assiette",
+        "difficulté": 1
+    },
+    {
+        "mot": "Avion en papier",
+        "difficulté": 1
+    },
+    {
+        "mot": "Bague de fiançailles",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bandeau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Barre de traction",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bicyclette",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bilboquet",
+        "difficulté": 3
+    },
+    {
+        "mot": "Billard",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bol de lait",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bouchon",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bougie",
+        "difficulté": 1
+    },
+    {
+        "mot": "Brosse à dents",
+        "difficulté": 1
+    },
+    {
+        "mot": "C cédille",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cachemire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cafetière",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cahier",
+        "difficulté": 1
+    },
+    {
+        "mot": "Caméra",
+        "difficulté": 1
+    },
+    {
+        "mot": "Carnet de notes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Carnet",
+        "difficulté": 1
+    },
+    {
+        "mot": "Cerf-volant",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cintre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Classeur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Collier de perle",
+        "difficulté": 2
+    },
+    {
+        "mot": "Coussin",
+        "difficulté": 1
+    },
+    {
+        "mot": "Crayon de couleur",
+        "difficulté": 1
+    },
+    {
+        "mot": "Damier",
+        "difficulté": 3
+    },
+    {
+        "mot": "Disque de platine",
+        "difficulté": 3
+    },
+    {
+        "mot": "Écran d'ordinateur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Engrenage",
+        "difficulté": 3
+    },
+    {
+        "mot": "Enveloppe",
+        "difficulté": 2
+    },
+    {
+        "mot": "Essoreuse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Éventail",
+        "difficulté": 1
+    },
+    {
+        "mot": "Fer à cheval",
+        "difficulté": 2
+    },
+    {
+        "mot": "FFP2",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ficelle",
+        "difficulté": 1
+    },
+    {
+        "mot": "Flûte à bec",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fourchette",
+        "difficulté": 1
+    },
+    {
+        "mot": "Guéridon",
+        "difficulté": 2
+    },
+    {
+        "mot": "Hélice",
+        "difficulté": 1
+    },
+    {
+        "mot": "iPad",
+        "difficulté": 2
+    },
+    {
+        "mot": "iPhone",
+        "difficulté": 2
+    },
+    {
+        "mot": "iPod mini",
+        "difficulté": 2
+    },
+    {
+        "mot": "Joint de culasse",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jupe crayon",
+        "difficulté": 2
+    },
+    {
+        "mot": "Lavomatique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lego",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tourner en eau de boudin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se porter comme un charme",
+        "difficulté": 2
+    },
+    {
+        "mot": "Découvrir le poteau rose",
+        "difficulté": 3
+    },
+    {
+        "mot": "A la queue leu leu",
+        "difficulté": 1
+    },
+    {
+        "mot": "Au pied de la lettre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mettre la charue avant les bœufs",
+        "difficulté": 3
+    },
+    {
+        "mot": "Avoir un poil sur la main",
+        "difficulté": 1
+    },
+    {
+        "mot": "Passer comme une lettre à la poste",
+        "difficulté": 2
+    },
+    {
+        "mot": "Il y a péril en la demeure",
+        "difficulté": 4
+    },
+    {
+        "mot": "Mi-figue mi-raisin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Bâtir des châteaux en Espagne",
+        "difficulté": 4
+    }
+]

@@ -1,7 +1,17 @@
-import words from "../data/data.json";
+import expressions from "../data/expressions.json";
+import objets from "../data/objets.json"
+import personnes from "../data/personnes.json"
+import titres from "../data/titres.json"
 
 export default function() {
-    const list = [...words]
+    const topics = [expressions, objets, personnes, titres]
+
+    let list = []
+    topics.forEach(topic => {
+        topic.forEach(element => {
+            list.push(element.mot)
+        })
+    })
 
     const i = Math.floor(Math.random() * list.length)
 
