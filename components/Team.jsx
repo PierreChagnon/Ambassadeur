@@ -19,7 +19,7 @@ export default function ({ team, playerList }) {
         }
         setTeamComp(list)
     }, [])
-    // console.log(team, playerList)
+    
     let xOffset = 30
     if (playerList.length > 6) {
         xOffset = -100

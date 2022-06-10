@@ -75,7 +75,7 @@ export default function ({ list, handleButtonClick, count, teamName, numberOfWor
                             //Elle est par défaut à 36 pour pouvoir "accueillir" une fontSize à 36 sans bouger les éléments autour.
                         ]
                     }>
-                        {touch ? list[count - 1] : "Touche ici pour voir le mot"}
+                        {touch ? list[count - 1] : "Touche ici pour revoir le mot"}
                     </Text>
                 </View>
                 <BottomButton next={() => { handleButtonClick(teamName, list[count - 1]) }}>

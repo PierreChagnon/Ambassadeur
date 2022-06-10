@@ -31,7 +31,7 @@ export default function ({ navigation }) {
 
 
     const handleAddClick = () => {
-        if (state.playerList.length <= 20)
+        if (state.playerList.length < 20)
             state.setPlayerList([...state.playerList, ""])
     }
 
@@ -59,8 +59,9 @@ export default function ({ navigation }) {
             setErrorShow(true)
         } else {
             state.setPlayerList(temp)
+
             //Shuffle list
-            const shuffledList = shuffleArray(list);
+            const shuffledList = shuffleArray(temp);
 
             //Cut the array in two parts
             const half = Math.ceil(shuffledList.length / 2);
@@ -93,7 +94,7 @@ export default function ({ navigation }) {
                 </Title>
             </View>
             <View style={styles.body}>
-                <ListContainer handleAddClick={handleAddClick}>
+                <ListContainer>
                     {state.playerList.map((x, i) => {
                         return <WordInput
                             disableErase={disableErase}

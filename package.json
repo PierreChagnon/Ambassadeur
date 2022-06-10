@@ -16,7 +16,7 @@
     "react": "17.0.1",
     "react-awesome-button": "^6.5.1",
     "react-dom": "17.0.1",
-    "react-native": "0.64.2",
+    "react-native": "0.64.3",
     "react-native-draggable": "^3.3.0",
     "react-native-gesture-handler": "~1.10.2",
     "react-native-really-awesome-button": "^1.6.0",
@@ -25,7 +25,8 @@
     "react-native-web": "0.17.1",
     "react-navigation": "^4.4.4",
     "expo-font": "~10.0.3",
-    "expo-app-loading": "~1.2.1"
+    "expo-app-loading": "~1.2.1",
+    "react-native-svg": "12.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"

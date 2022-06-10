@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, TouchableOpacity } from 'react-native';
+import { Text, TouchableOpacity, Image } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 
 import LinearGradientBackground from './LinearGradientBackground.jsx';
@@ -12,7 +12,7 @@ export default function ({ navigation }) {
             <StatusBar hidden={true} />
             <TouchableOpacity style={styles.container} onPress={() => navigation.navigate('GameMasterHandler')} >
                 {/* ou navigation.push (navigation a plusieurs méthode: goBack, popToTop, etc.) */}
-                <Text style={[styles.text, {color: "#EDFFEC"}]}>L'ambassadeur</Text>
+                <Image style={{ width: "100%" }} resizeMode='contain' source={require("./assets/logo.png")} />
             </TouchableOpacity>
         </LinearGradientBackground>
 
