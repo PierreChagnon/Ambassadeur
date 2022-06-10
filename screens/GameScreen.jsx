@@ -5,6 +5,7 @@ import { Text } from "react-native"
 import GameScreenUI from "../components/GameScreenUI";
 import GameModal from "../components/GameModal";
 import ErrorModal from '../components/ErrorModal.jsx';
+import WordModal from "../components/WordModal";
 
 import { StateContext } from "../provider/StateProvider";
 
@@ -130,7 +131,11 @@ export default function ({ navigation }) {
             <GameScreenUI list={list} handleButtonClick={handleButtonClick} count={blueCount} numberOfWords={state.numberOfWords} teamName={"bleue"} navigation={navigation} />
             {modalVisible && <GameModal reverse={modalReverse} list={list} visible={modalVisible} handleCloseModal={handleCloseModal} handlePickedWord={handlePickedWord} currentWord={currentWord} currentTeam={currentTeam} />}
             {errorModalVisible && <ErrorModal reverse={modalReverse} visible={errorModalVisible} handleCloseModal={handleCloseErrorModal}>Ceci n’était pas le bon mot. Retournez auprès de votre équipe et demandez à l’ambassadeur précédent de reprendre son mime.</ErrorModal>}
-            {wordModalVisible && <ErrorModal reverse={modalReverse} buttonText={"Fermer"} visible={wordModalVisible} handleCloseModal={() => setWordModalVisible(false)} >Bravo !{"\n"}Le prochain mot est :{"\n"}{"\n"}{"\n"} <Text allowFontScaling={false} style={{textAlign: "center", fontSize: 36}}>{nextWordToDisplay}</Text></ErrorModal>}
+            {wordModalVisible && <WordModal reverse={modalReverse} buttonText={"Fermer"} visible={wordModalVisible} handleCloseModal={() => setWordModalVisible(false)} >
+                <Text allowFontScaling={false} style={{ textAlign: "center", fontSize: 36 }}>
+                    {nextWordToDisplay}
+                </Text>
+            </WordModal>}
         </LinearGradient>
     )
 }

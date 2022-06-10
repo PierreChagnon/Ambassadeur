@@ -52,9 +52,15 @@ export default function ({ buttonText = "Retour", children, visible, handleClose
                     alignItems: "center",
                     display: "flex",
                     paddingBottom: 30,
-                    height: "35%"
+                    minHeight: "35%"
                 }}>
-                    <CustomText color="#127299" lineHeight={24}>{children}</CustomText>
+                    <View style={{ display: "flex", flexDirection: "column", justifyContent: "space-around" }}>
+                        <CustomText color="#127299" lineHeight={24}>Bravo !</CustomText>
+                        <CustomText color="#127299" lineHeight={24}>Le prochain mot est :</CustomText>
+                    </View>
+                    <Text allowFontScaling={false} style={{ textAlign: "center", fontSize: 36, fontFamily: "Candela", color: "#127299" }}>
+                        {children}
+                    </Text>
                     <BottomButton width={150} next={() => handleCloseModal()}>{buttonText}</BottomButton>
                 </View>
             </View >
