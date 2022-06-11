@@ -1,0 +1,1333 @@
+[{
+        "mot": "Admission",
+        "difficulté": 3
+    },
+    {
+        "mot": "Africain",
+        "difficulté": 2
+    },
+    {
+        "mot": "Aigu",
+        "difficulté": 3
+    },
+    {
+        "mot": "Aiguillon",
+        "difficulté": 3
+    },
+    {
+        "mot": "Alphabet",
+        "difficulté": 1
+    },
+    {
+        "mot": "Alpinisme",
+        "difficulté": 3
+    },
+    {
+        "mot": "Aluminium",
+        "difficulté": 3
+    },
+    {
+        "mot": "Amnésie",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ampoule",
+        "difficulté": 1
+    },
+    {
+        "mot": "Analyse",
+        "difficulté": 3
+    },
+    {
+        "mot": "Angle",
+        "difficulté": 3
+    },
+    {
+        "mot": "Applaudissement",
+        "difficulté": 2
+    },
+    {
+        "mot": "Après-midi",
+        "difficulté": 1
+    },
+    {
+        "mot": "Aquarelle",
+        "difficulté": 3
+    },
+    {
+        "mot": "Arche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Arroser",
+        "difficulté": 1
+    },
+    {
+        "mot": "Art",
+        "difficulté": 1
+    },
+    {
+        "mot": "Assez",
+        "difficulté": 3
+    },
+    {
+        "mot": "Asterisque",
+        "difficulté": 1
+    },
+    {
+        "mot": "Astronome",
+        "difficulté": 3
+    },
+    {
+        "mot": "Attacher",
+        "difficulté": 2
+    },
+    {
+        "mot": "Attitude",
+        "difficulté": 3
+    },
+    {
+        "mot": "Aucun",
+        "difficulté": 3
+    },
+    {
+        "mot": "Augmenter",
+        "difficulté": 3
+    },
+    {
+        "mot": "Automatique",
+        "difficulté": 2
+    },
+    {
+        "mot": "Aviateur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Avocat",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ballon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Banlieue",
+        "difficulté": 2
+    },
+    {
+        "mot": "Barbe",
+        "difficulté": 1
+    },
+    {
+        "mot": "Bâtiment",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bazooka",
+        "difficulté": 3
+    },
+    {
+        "mot": "Bénédiction",
+        "difficulté": 3
+    },
+    {
+        "mot": "Berceau",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bienvenue",
+        "difficulté": 1
+    },
+    {
+        "mot": "Billard",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bleu canard",
+        "difficulté": 2
+    },
+    {
+        "mot": "Boîte",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bonhomme de neige",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bonjour",
+        "difficulté": 1
+    },
+    {
+        "mot": "Bouillon de poulet",
+        "difficulté": 3
+    },
+    {
+        "mot": "Broyeur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bulle",
+        "difficulté": 1
+    },
+    {
+        "mot": "Cadre supérieur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cancer",
+        "difficulté": 2
+    },
+    {
+        "mot": "Caraïbes",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cargaison",
+        "difficulté": 3
+    },
+    {
+        "mot": "Carnaval de Rio",
+        "difficulté": 3
+    },
+    {
+        "mot": "Carnaval de Venise",
+        "difficulté": 3
+    },
+    {
+        "mot": "Carnaval",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cathédrale de Reims",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cerceau",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cercle",
+        "difficulté": 1
+    },
+    {
+        "mot": "Chamallow",
+        "difficulté": 3
+    },
+    {
+        "mot": "Champagne",
+        "difficulté": 2
+    },
+    {
+        "mot": "Charmant",
+        "difficulté": 3
+    },
+    {
+        "mot": "Charrue",
+        "difficulté": 2
+    },
+    {
+        "mot": "Chaussettes",
+        "difficulté": 3
+    },
+    {
+        "mot": "Chauve",
+        "difficulté": 2
+    },
+    {
+        "mot": "Chorale",
+        "difficulté": 2
+    },
+    {
+        "mot": "Choucroute",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cidre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Circuit",
+        "difficulté": 3
+    },
+    {
+        "mot": "Citerne",
+        "difficulté": 3
+    },
+    {
+        "mot": "Clermont-Ferrand",
+        "difficulté": 3
+    },
+    {
+        "mot": "Clocher",
+        "difficulté": 2
+    },
+    {
+        "mot": "Coiffeur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Concquérante",
+        "difficulté": 3
+    },
+    {
+        "mot": "Confiance",
+        "difficulté": 2
+    },
+    {
+        "mot": "Confiance",
+        "difficulté": 3
+    },
+    {
+        "mot": "Conseil",
+        "difficulté": 2
+    },
+    {
+        "mot": "Construction",
+        "difficulté": 3
+    },
+    {
+        "mot": "Conte",
+        "difficulté": 2
+    },
+    {
+        "mot": "Convertir",
+        "difficulté": 3
+    },
+    {
+        "mot": "Copeaux de bois",
+        "difficulté": 2
+    },
+    {
+        "mot": "Corse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Couche",
+        "difficulté": 1
+    },
+    {
+        "mot": "Cousin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Coussin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Crasseux",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cri",
+        "difficulté": 2
+    },
+    {
+        "mot": "Croissant",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cul de jatte",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dansant",
+        "difficulté": 2
+    },
+    {
+        "mot": "Démembrement",
+        "difficulté": 3
+    },
+    {
+        "mot": "Démocratie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dentelle",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dériver",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dessin",
+        "difficulté": 1
+    },
+    {
+        "mot": "Digicode",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dix",
+        "difficulté": 2
+    },
+    {
+        "mot": "Doliprane",
+        "difficulté": 2
+    },
+    {
+        "mot": "Dollar",
+        "difficulté": 2
+    },
+    {
+        "mot": "Doute",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dragon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Drapeaux",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dur",
+        "difficulté": 2
+    },
+    {
+        "mot": "DVD",
+        "difficulté": 2
+    },
+    {
+        "mot": "Echographie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Écraser",
+        "difficulté": 2
+    },
+    {
+        "mot": "Effondrement",
+        "difficulté": 3
+    },
+    {
+        "mot": "Elégante",
+        "difficulté": 3
+    },
+    {
+        "mot": "Émotion",
+        "difficulté": 3
+    },
+    {
+        "mot": "Encore",
+        "difficulté": 2
+    },
+    {
+        "mot": "Enfant",
+        "difficulté": 1
+    },
+    {
+        "mot": "Enterrement",
+        "difficulté": 2
+    },
+    {
+        "mot": "Entorse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Exposition",
+        "difficulté": 3
+    },
+    {
+        "mot": "Facile",
+        "difficulté": 1
+    },
+    {
+        "mot": "Faïence",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fan",
+        "difficulté": 2
+    },
+    {
+        "mot": "Félicitations",
+        "difficulté": 2
+    },
+    {
+        "mot": "Femelle",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ferraille",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ferrero",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fille",
+        "difficulté": 1
+    },
+    {
+        "mot": "Film",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fissure",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fissure",
+        "difficulté": 3
+    },
+    {
+        "mot": "Flaque",
+        "difficulté": 2
+    },
+    {
+        "mot": "Flocons",
+        "difficulté": 2
+    },
+    {
+        "mot": "Flotteur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Flou",
+        "difficulté": 2
+    },
+    {
+        "mot": "Focus",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fondateur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fortune",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fossile",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fouille",
+        "difficulté": 2
+    },
+    {
+        "mot": "Foule",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fracture",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fresque",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fuite",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fuite",
+        "difficulté": 2
+    },
+    {
+        "mot": "Funiculaire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Garanti",
+        "difficulté": 3
+    },
+    {
+        "mot": "Garanti",
+        "difficulté": 3
+    },
+    {
+        "mot": "Garçon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Gargantuesque",
+        "difficulté": 3
+    },
+    {
+        "mot": "Germer",
+        "difficulté": 3
+    },
+    {
+        "mot": "Glaçon",
+        "difficulté": 2
+    },
+    {
+        "mot": "Globuleux",
+        "difficulté": 3
+    },
+    {
+        "mot": "Gouffre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Goupille",
+        "difficulté": 3
+    },
+    {
+        "mot": "Gramme",
+        "difficulté": 3
+    },
+    {
+        "mot": "Gravier",
+        "difficulté": 2
+    },
+    {
+        "mot": "Grifondor",
+        "difficulté": 2
+    },
+    {
+        "mot": "Groenland",
+        "difficulté": 3
+    },
+    {
+        "mot": "Grossesse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Guidon",
+        "difficulté": 2
+    },
+    {
+        "mot": "Guillotine",
+        "difficulté": 2
+    },
+    {
+        "mot": "Guirlande",
+        "difficulté": 3
+    },
+    {
+        "mot": "Hauteur",
+        "difficulté": 1
+    },
+    {
+        "mot": "Hémisphère gauche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Hémisphère sud",
+        "difficulté": 2
+    },
+    {
+        "mot": "Himalaya",
+        "difficulté": 2
+    },
+    {
+        "mot": "Homicide",
+        "difficulté": 3
+    },
+    {
+        "mot": "Horoscope",
+        "difficulté": 2
+    },
+    {
+        "mot": "Horrible",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ibiza",
+        "difficulté": 3
+    },
+    {
+        "mot": "Igloo",
+        "difficulté": 2
+    },
+    {
+        "mot": "Immobile",
+        "difficulté": 2
+    },
+    {
+        "mot": "Incandescent",
+        "difficulté": 3
+    },
+    {
+        "mot": "Indépendance",
+        "difficulté": 3
+    },
+    {
+        "mot": "Infini",
+        "difficulté": 3
+    },
+    {
+        "mot": "Inflation",
+        "difficulté": 3
+    },
+    {
+        "mot": "Innocent",
+        "difficulté": 3
+    },
+    {
+        "mot": "Innovation",
+        "difficulté": 2
+    },
+    {
+        "mot": "Instructions",
+        "difficulté": 3
+    },
+    {
+        "mot": "Intelligent",
+        "difficulté": 3
+    },
+    {
+        "mot": "Invention",
+        "difficulté": 2
+    },
+    {
+        "mot": "Investir",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ivoire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Japonais",
+        "difficulté": 2
+    },
+    {
+        "mot": "Jeu",
+        "difficulté": 1
+    },
+    {
+        "mot": "Jeune marié",
+        "difficulté": 3
+    },
+    {
+        "mot": "Joint de carrelage",
+        "difficulté": 2
+    },
+    {
+        "mot": "Joli",
+        "difficulté": 1
+    },
+    {
+        "mot": "Jungle",
+        "difficulté": 2
+    },
+    {
+        "mot": "Kamikaze",
+        "difficulté": 3
+    },
+    {
+        "mot": "Labyrinthe",
+        "difficulté": 3
+    },
+    {
+        "mot": "Laid",
+        "difficulté": 2
+    },
+    {
+        "mot": "Langue",
+        "difficulté": 2
+    },
+    {
+        "mot": "Latex",
+        "difficulté": 2
+    },
+    {
+        "mot": "Levure",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lieu",
+        "difficulté": 2
+    },
+    {
+        "mot": "Lignes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Linéaire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Livebox",
+        "difficulté": 2
+    },
+    {
+        "mot": "Lubrifiant",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lucifer",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lumbago",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lumière",
+        "difficulté": 2
+    },
+    {
+        "mot": "Lunaire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Magasin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Magazines",
+        "difficulté": 2
+    },
+    {
+        "mot": "Maladie",
+        "difficulté": 1
+    },
+    {
+        "mot": "Malaisant",
+        "difficulté": 3
+    },
+    {
+        "mot": "Malheureux",
+        "difficulté": 2
+    },
+    {
+        "mot": "Marais",
+        "difficulté": 3
+    },
+    {
+        "mot": "Marathon",
+        "difficulté": 3
+    },
+    {
+        "mot": "Margarine",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mariage",
+        "difficulté": 2
+    },
+    {
+        "mot": "Marin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Marque",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mascara",
+        "difficulté": 2
+    },
+    {
+        "mot": "Matin",
+        "difficulté": 1
+    },
+    {
+        "mot": "Mensonge",
+        "difficulté": 3
+    },
+    {
+        "mot": "Métro",
+        "difficulté": 1
+    },
+    {
+        "mot": "Micro",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mitrailleuse",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mois",
+        "difficulté": 2
+    },
+    {
+        "mot": "Moniteur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Monstre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mont Everest",
+        "difficulté": 2
+    },
+    {
+        "mot": "Morse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mot",
+        "difficulté": 3
+    },
+    {
+        "mot": "Moustache",
+        "difficulté": 2
+    },
+    {
+        "mot": "Multiplication",
+        "difficulté": 3
+    },
+    {
+        "mot": "Musée",
+        "difficulté": 2
+    },
+    {
+        "mot": "Musique classique",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mystère",
+        "difficulté": 3
+    },
+    {
+        "mot": "Naufrage",
+        "difficulté": 3
+    },
+    {
+        "mot": "Nuque",
+        "difficulté": 1
+    },
+    {
+        "mot": "Nutella",
+        "difficulté": 2
+    },
+    {
+        "mot": "Odeur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Odorat'",
+        "difficulté": 3
+    },
+    {
+        "mot": "Œuf",
+        "difficulté": 2
+    },
+    {
+        "mot": "Offensif",
+        "difficulté": 3
+    },
+    {
+        "mot": "Officiel",
+        "difficulté": 3
+    },
+    {
+        "mot": "Optionnel",
+        "difficulté": 3
+    },
+    {
+        "mot": "Orbite",
+        "difficulté": 3
+    },
+    {
+        "mot": "Otage",
+        "difficulté": 3
+    },
+    {
+        "mot": "Outil",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ovation",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pair",
+        "difficulté": 2
+    },
+    {
+        "mot": "Palourde",
+        "difficulté": 2
+    },
+    {
+        "mot": "Paris",
+        "difficulté": 2
+    },
+    {
+        "mot": "Patient",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pauvre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Peintre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Perruque",
+        "difficulté": 2
+    },
+    {
+        "mot": "Peugeot",
+        "difficulté": 2
+    },
+    {
+        "mot": "Photographie",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pierre-Feuille-Ciseaux",
+        "difficulté": 1
+    },
+    {
+        "mot": "Pipi",
+        "difficulté": 1
+    },
+    {
+        "mot": "Pirater",
+        "difficulté": 3
+    },
+    {
+        "mot": "Platine",
+        "difficulté": 2
+    },
+    {
+        "mot": "Plume",
+        "difficulté": 2
+    },
+    {
+        "mot": "Poignet",
+        "difficulté": 1
+    },
+    {
+        "mot": "Poison",
+        "difficulté": 2
+    },
+    {
+        "mot": "Poivre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pomme d'Adam",
+        "difficulté": 2
+    },
+    {
+        "mot": "Population",
+        "difficulté": 3
+    },
+    {
+        "mot": "Portail",
+        "difficulté": 2
+    },
+    {
+        "mot": "Poussière de fée",
+        "difficulté": 3
+    },
+    {
+        "mot": "Prince",
+        "difficulté": 2
+    },
+    {
+        "mot": "Prison",
+        "difficulté": 2
+    },
+    {
+        "mot": "Privé",
+        "difficulté": 3
+    },
+    {
+        "mot": "Propagation",
+        "difficulté": 3
+    },
+    {
+        "mot": "Purée Saucisse",
+        "difficulté": 3
+    },
+    {
+        "mot": "Questionnaire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Quoi",
+        "difficulté": 3
+    },
+    {
+        "mot": "Radiation",
+        "difficulté": 2
+    },
+    {
+        "mot": "Réflexion",
+        "difficulté": 3
+    },
+    {
+        "mot": "Regret",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rencontre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rennes",
+        "difficulté": 3
+    },
+    {
+        "mot": "Reptile",
+        "difficulté": 3
+    },
+    {
+        "mot": "Restaurant",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rivet",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rome",
+        "difficulté": 3
+    },
+    {
+        "mot": "Roulette",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rubrique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rural",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sagitaire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sale",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sanctuaire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Satisfaisant",
+        "difficulté": 3
+    },
+    {
+        "mot": "Saturne",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se dessécher",
+        "difficulté": 3
+    },
+    {
+        "mot": "Servir",
+        "difficulté": 2
+    },
+    {
+        "mot": "Singulier",
+        "difficulté": 3
+    },
+    {
+        "mot": "Soir",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sorcellerie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sortie de secours",
+        "difficulté": 2
+    },
+    {
+        "mot": "Soufre",
+        "difficulté": 3
+    },
+    {
+        "mot": "Soumettre",
+        "difficulté": 3
+    },
+    {
+        "mot": "Souple",
+        "difficulté": 3
+    },
+    {
+        "mot": "Spatule",
+        "difficulté": 2
+    },
+    {
+        "mot": "Stagiaire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Statut",
+        "difficulté": 2
+    },
+    {
+        "mot": "Succès",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sucer",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sueur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Surf",
+        "difficulté": 3
+    },
+    {
+        "mot": "Table",
+        "difficulté": 1
+    },
+    {
+        "mot": "Taille",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tension",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tik-Tok",
+        "difficulté": 2
+    },
+    {
+        "mot": "Timing",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tourisme",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tous les jours",
+        "difficulté": 3
+    },
+    {
+        "mot": "Toxique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tracteur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Traducteur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tranche",
+        "difficulté": 3
+    },
+    {
+        "mot": "Trappe",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tremper",
+        "difficulté": 3
+    },
+    {
+        "mot": "Triangle rectangle",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tropique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Truc",
+        "difficulté": 2
+    },
+    {
+        "mot": "Twitter",
+        "difficulté": 2
+    },
+    {
+        "mot": "Uno",
+        "difficulté": 1
+    },
+    {
+        "mot": "Venin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Venteux",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ventre plein",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ventre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Verseau",
+        "difficulté": 2
+    },
+    {
+        "mot": "Veuve",
+        "difficulté": 2
+    },
+    {
+        "mot": "Vinaigre",
+        "difficulté": 3
+    },
+    {
+        "mot": "Violence",
+        "difficulté": 2
+    },
+    {
+        "mot": "Virus",
+        "difficulté": 2
+    },
+    {
+        "mot": "Vision",
+        "difficulté": 2
+    },
+    {
+        "mot": "Vivant",
+        "difficulté": 2
+    },
+    {
+        "mot": "Volcan",
+        "difficulté": 2
+    },
+    {
+        "mot": "Volontaire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Vomitif",
+        "difficulté": 3
+    },
+    {
+        "mot": "Vue",
+        "difficulté": 2
+    },
+    {
+        "mot": "Zodiaque",
+        "difficulté": 3
+    },
+    {
+        "mot": "Zombi",
+        "difficulté": 2
+    },
+    {
+        "mot": "Zoologique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Arbre généalogique",
+        "difficulté": 2
+    }
+]

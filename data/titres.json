@@ -27,10 +27,6 @@
         "difficulté": 2
     },
     {
-        "mot": "Astérix et Obélix contre César",
-        "difficulté": 2
-    },
-    {
         "mot": "Astérix le Gaulois",
         "difficulté": 2
     },
@@ -96,10 +92,6 @@
     },
     {
         "mot": "Le Roi lion",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Roi Lion",
         "difficulté": 2
     },
     {
@@ -187,191 +179,747 @@
         "difficulté": 2
     },
     {
-        "mot": "Harry Potter",
+        "mot": "Taken",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tarzan",
+        "difficulté": 2
+    },
+    {
+        "mot": "Taxi 2",
+        "difficulté": 2
+    },
+    {
+        "mot": "The Artist",
+        "difficulté": 2
+    },
+    {
+        "mot": "Valérian et La Cité des Mille Planètes",
+        "difficulté": 2
+    },
+    {
+        "mot": "13 Reasons Why",
+        "difficulté": 3
+    },
+    {
+        "mot": 1984,
+        "difficulté": 3
+    },
+    {
+        "mot": "21 Jump Street",
+        "difficulté": 3
+    },
+    {
+        "mot": "A la recherche du temps perdu",
+        "difficulté": 3
+    },
+    {
+        "mot": "Aladdin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Arrête moi si tu peux",
+        "difficulté": 3
+    },
+    {
+        "mot": "Arthur et les Minimoys",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ben-Hur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cendrillon",
+        "difficulté": 3
+    },
+    {
+        "mot": "Danse avec les loups",
+        "difficulté": 3
+    },
+    {
+        "mot": "E.T. l'extra-terrestre",
+        "difficulté": 3
+    },
+    {
+        "mot": "En attendant Godot",
+        "difficulté": 3
+    },
+    {
+        "mot": "Gatsby le Magnifique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Harry Potter et la Chambre des secrets",
+        "difficulté": 3
+    },
+    {
+        "mot": "Il était une fois dans l'Ouest",
+        "difficulté": 3
+    },
+    {
+        "mot": "Inception",
+        "difficulté": 3
+    },
+    {
+        "mot": "L'Âge de glace 3 : le Temps des dinosaures",
+        "difficulté": 3
+    },
+    {
+        "mot": "L'amie prodigieuse",
+        "difficulté": 3
+    },
+    {
+        "mot": "L'Écume des jours",
+        "difficulté": 3
+    },
+    {
+        "mot": "L'Être et le Néant",
+        "difficulté": 3
+    },
+    {
+        "mot": "La Belle et le Clochard",
+        "difficulté": 3
+    },
+    {
+        "mot": "La Famille Bélier",
+        "difficulté": 3
+    },
+    {
+        "mot": "La Grande Illusion",
+        "difficulté": 3
+    },
+    {
+        "mot": "La Grande Vadrouille",
+        "difficulté": 3
+    },
+    {
+        "mot": "La Guerre des boutons",
+        "difficulté": 3
+    },
+    {
+        "mot": "La Guerre des mondes",
+        "difficulté": 3
+    },
+    {
+        "mot": "La petite maison dans la prairie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Le Cinquième Élément",
+        "difficulté": 3
+    },
+    {
+        "mot": "Le Comte de Monte-Cristo",
+        "difficulté": 3
+    },
+    {
+        "mot": "Le Deuxième Sexe",
+        "difficulté": 3
+    },
+    {
+        "mot": "Le Grand Bleu",
+        "difficulté": 3
+    },
+    {
+        "mot": "Le Grand Meaulnes",
+        "difficulté": 3
+    },
+    {
+        "mot": "Le Nom de la rose",
+        "difficulté": 3
+    },
+    {
+        "mot": "Le Pianiste",
+        "difficulté": 3
+    },
+    {
+        "mot": "Le Transporteur 3",
+        "difficulté": 3
+    },
+    {
+        "mot": "Les Aventures de Bernard et Bianca",
+        "difficulté": 3
+    },
+    {
+        "mot": "Les Aventures de Rabbi Jacob",
+        "difficulté": 3
+    },
+    {
+        "mot": "Les Bronzés 3 : Amis pour la vie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Les Misérables",
+        "difficulté": 3
+    },
+    {
+        "mot": "Les Trois Frères",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lolita",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lucy",
+        "difficulté": 3
+    },
+    {
+        "mot": "Maman j'ai encore râte l'avion",
+        "difficulté": 3
+    },
+    {
+        "mot": "Orange mécanique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Si c'est un homme",
+        "difficulté": 3
+    },
+    {
+        "mot": "Skyfall",
+        "difficulté": 3
+    },
+    {
+        "mot": "Star Wars, épisode I : La Menace fantôme",
+        "difficulté": 3
+    },
+    {
+        "mot": "Star Wars, épisode VII : Le Réveil de la Force",
+        "difficulté": 3
+    },
+    {
+        "mot": "Star Wars, épisode VIII : Les Derniers Jedi",
+        "difficulté": 3
+    },
+    {
+        "mot": "Titanic",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ulysse",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un Indien dans la ville",
+        "difficulté": 3
+    },
+    {
+        "mot": "Vingt Mille Lieues sous les mers",
+        "difficulté": 3
+    },
+    {
+        "mot": "Vol au dessus d'un nid de coucou",
+        "difficulté": 3
+    },
+    {
+        "mot": "Voyage au bout de la nuit",
+        "difficulté": 3
+    },
+    {
+        "mot": "West Side Story",
+        "difficulté": 3
+    },
+    {
+        "mot": "American Horror Story",
+        "difficulté": 3
+    },
+    {
+        "mot": "Amour, Gloire et Beauté",
+        "difficulté": 2
+    },
+    {
+        "mot": "Arrow",
+        "difficulté": 3
+    },
+    {
+        "mot": "Au service de la France",
+        "difficulté": 3
+    },
+    {
+        "mot": "Avatar, le dernier maître de l'air",
+        "difficulté": 3
+    },
+    {
+        "mot": "Better Call Saul",
+        "difficulté": 3
+    },
+    {
+        "mot": "Black Mirror",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bob l'éponge",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bones",
+        "difficulté": 3
+    },
+    {
+        "mot": "Breaking Bad",
+        "difficulté": 2
+    },
+    {
+        "mot": "Brooklyn Nine-Nine",
+        "difficulté": 3
+    },
+    {
+        "mot": "Buffy contre les vampires",
+        "difficulté": 3
+    },
+    {
+        "mot": "Caméra Café",
+        "difficulté": 2
+    },
+    {
+        "mot": "Charmed",
+        "difficulté": 2
+    },
+    {
+        "mot": "Chernobyl",
+        "difficulté": 3
+    },
+    {
+        "mot": "Clem",
+        "difficulté": 3
+    },
+    {
+        "mot": "Code Lyoko",
+        "difficulté": 3
+    },
+    {
+        "mot": "Columbo",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dark",
+        "difficulté": 3
+    },
+    {
+        "mot": "Desperate Housewives",
+        "difficulté": 2
+    },
+    {
+        "mot": "Dexter",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dix pour cent",
+        "difficulté": 2
+    },
+    {
+        "mot": "Doctor Who",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dora l'exploratrice",
         "difficulté": 1
     },
     {
-        "mot": "La Reine des Neiges 2",
+        "mot": "Downton Abbey",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dr House",
+        "difficulté": 2
+    },
+    {
+        "mot": "Dragon Ball Z",
+        "difficulté": 2
+    },
+    {
+        "mot": "En thérapie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Euphoria",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fais pas ci, fais pas ça",
+        "difficulté": 3
+    },
+    {
+        "mot": "Falcon et le Soldat de l'hiver",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fargo",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fear the Walking Dead",
+        "difficulté": 2
+    },
+    {
+        "mot": "Foot 2 rue",
+        "difficulté": 2
+    },
+    {
+        "mot": "Futurama",
+        "difficulté": 3
+    },
+    {
+        "mot": "Game of Thrones",
+        "difficulté": 2
+    },
+    {
+        "mot": "Glee",
+        "difficulté": 3
+    },
+    {
+        "mot": "Good Doctor",
+        "difficulté": 3
+    },
+    {
+        "mot": "Gossip Girl",
+        "difficulté": 3
+    },
+    {
+        "mot": "Grey's Anatomy",
+        "difficulté": 2
+    },
+    {
+        "mot": "H",
+        "difficulté": 2
+    },
+    {
+        "mot": "Hawkeye",
+        "difficulté": 3
+    },
+    {
+        "mot": "Hélène et les Garçons",
+        "difficulté": 3
+    },
+    {
+        "mot": "Homeland",
+        "difficulté": 3
+    },
+    {
+        "mot": "House of Cards",
+        "difficulté": 3
+    },
+    {
+        "mot": "House of the Dragon",
+        "difficulté": 2
+    },
+    {
+        "mot": "How I Met Your Mother",
+        "difficulté": 2
+    },
+    {
+        "mot": "Joséphine, ange gardien",
+        "difficulté": 2
+    },
+    {
+        "mot": "Kaamelott",
+        "difficulté": 2
+    },
+    {
+        "mot": "Killing Eve",
+        "difficulté": 3
+    },
+    {
+        "mot": "La casa de papel",
+        "difficulté": 3
+    },
+    {
+        "mot": "La Chronique des Bridgerton",
+        "difficulté": 2
+    },
+    {
+        "mot": "Les Experts : Miami",
+        "difficulté": 2
+    },
+    {
+        "mot": "Les Experts",
+        "difficulté": 2
+    },
+    {
+        "mot": "Les Feux de l'amour",
+        "difficulté": 2
+    },
+    {
+        "mot": "Les Frères Scott",
+        "difficulté": 2
+    },
+    {
+        "mot": "Les Petits Meurtres d'Agatha Christie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Les Simpson",
+        "difficulté": 2
+    },
+    {
+        "mot": "Les Soprano",
+        "difficulté": 3
+    },
+    {
+        "mot": "Les Télétubbies",
+        "difficulté": 2
+    },
+    {
+        "mot": "Loki",
+        "difficulté": 3
+    },
+    {
+        "mot": "Love, Death and Robots",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lupin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ma famille d'abord",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ma sorcière bien-aimée",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mad Men",
+        "difficulté": 3
+    },
+    {
+        "mot": "Madame est servie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Malcolm",
+        "difficulté": 2
+    },
+    {
+        "mot": "Marvel : Les Agents du SHIELD",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mission impossible",
+        "difficulté": 3
+    },
+    {
+        "mot": "Modern Family",
+        "difficulté": 3
+    },
+    {
+        "mot": "NCIS : Enquêtes spéciales",
+        "difficulté": 3
+    },
+    {
+        "mot": "NCIS : Los Angeles",
+        "difficulté": 3
+    },
+    {
+        "mot": "New York, section criminelle",
+        "difficulté": 3
+    },
+    {
+        "mot": "New York, unité spéciale",
+        "difficulté": 3
+    },
+    {
+        "mot": "Nos chers voisins",
+        "difficulté": 3
+    },
+    {
+        "mot": "Obi-Wan Kenobi",
+        "difficulté": 2
+    },
+    {
+        "mot": "Olive et Tom",
+        "difficulté": 3
+    },
+    {
+        "mot": "Once Upon a Time",
+        "difficulté": 3
+    },
+    {
+        "mot": "Orange Is the New Black",
+        "difficulté": 2
+    },
+    {
+        "mot": "Outlander",
+        "difficulté": 3
+    },
+    {
+        "mot": "Peaky Blinders",
+        "difficulté": 2
+    },
+    {
+        "mot": "Person of Interest",
+        "difficulté": 3
+    },
+    {
+        "mot": "Plus belle la vie",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pokemon",
         "difficulté": 1
     },
     {
-        "mot": "Le Monde de Nemo",
-        "difficulté": 1
+        "mot": "Pretty Little Liars",
+        "difficulté": 3
     },
     {
-        "mot": "24 Heures chrono",
+        "mot": "Prison Break",
+        "difficulté": 3
+    },
+    {
+        "mot": "Revenge",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rick et Morty",
+        "difficulté": 3
+    },
+    {
+        "mot": "Riverdale",
+        "difficulté": 3
+    },
+    {
+        "mot": "Scandal",
+        "difficulté": 3
+    },
+    {
+        "mot": "Scènes de ménages",
+        "difficulté": 3
+    },
+    {
+        "mot": "Scooby-Doo",
         "difficulté": 2
     },
     {
-        "mot": "Astérix aux Jeux olympiques",
+        "mot": "Sept à la maison",
         "difficulté": 2
     },
     {
-        "mot": "Astérix et Obélix : Mission Cléopâtre",
+        "mot": "Sex and the City",
         "difficulté": 2
     },
     {
-        "mot": "Astérix et Obélix contre César",
+        "mot": "She-Hulk : Avocate",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sherlock",
+        "difficulté": 3
+    },
+    {
+        "mot": "Smallville",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sons of Anarchy",
+        "difficulté": 3
+    },
+    {
+        "mot": "South Park",
         "difficulté": 2
     },
     {
-        "mot": "Astérix et Obélix contre César",
+        "mot": "Squid Game",
         "difficulté": 2
     },
     {
-        "mot": "Astérix le Gaulois",
+        "mot": "Star Trek",
+        "difficulté": 3
+    },
+    {
+        "mot": "Stargate SG-1",
+        "difficulté": 3
+    },
+    {
+        "mot": "Stranger Things",
         "difficulté": 2
     },
     {
-        "mot": "Autant en emporte le vent",
+        "mot": "Sur écoute",
+        "difficulté": 3
+    },
+    {
+        "mot": "The Big Bang Theory",
         "difficulté": 2
     },
     {
-        "mot": "Avatar",
+        "mot": "The Crown",
+        "difficulté": 3
+    },
+    {
+        "mot": "The Mandalorian",
+        "difficulté": 3
+    },
+    {
+        "mot": "The Office",
         "difficulté": 2
     },
     {
-        "mot": "Avengers : Endgame",
+        "mot": "The Punisher",
+        "difficulté": 3
+    },
+    {
+        "mot": "The Walking Dead",
+        "difficulté": 3
+    },
+    {
+        "mot": "The Witcher",
+        "difficulté": 3
+    },
+    {
+        "mot": "This Is Us",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tom et Jerry",
         "difficulté": 2
     },
     {
-        "mot": "Bienvenue chez les Ch'tis",
+        "mot": "Totally Spies!",
         "difficulté": 2
     },
     {
-        "mot": "Blanche-Neige et les Sept Nains",
+        "mot": "True Detective",
+        "difficulté": 3
+    },
+    {
+        "mot": "Twin Peaks",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un gars, une fille",
         "difficulté": 2
     },
     {
-        "mot": "Friends",
-        "difficulté": 2
+        "mot": "Une nounou d'enfer",
+        "difficulté": 3
     },
     {
-        "mot": "Harry Potter à l'école des sorciers",
-        "difficulté": 2
+        "mot": "Urgences",
+        "difficulté": 3
     },
     {
-        "mot": "Harry Potter et la Coupe de feu",
-        "difficulté": 2
+        "mot": "Vampire Diaries",
+        "difficulté": 3
     },
     {
-        "mot": "Harry Potter et le Prisonnier d'Azkaban",
-        "difficulté": 2
+        "mot": "Veronica Mars",
+        "difficulté": 3
     },
     {
-        "mot": "Intouchables",
-        "difficulté": 2
+        "mot": "Vikings",
+        "difficulté": 3
     },
     {
-        "mot": "Kung Fu Panda",
-        "difficulté": 2
+        "mot": "WandaVision",
+        "difficulté": 3
     },
     {
-        "mot": "La Vérité si je mens ! 2",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Dîner de cons",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Fabuleux Destin d'Amélie Poulain",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Livre de la jungle",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Roi lion",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Roi Lion",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Seigneur des anneaux : La Communauté de l'anneau",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Seigneur des anneaux : Le Retour du roi",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Seigneur des anneaux : Les Deux Tours",
-        "difficulté": 2
-    },
-    {
-        "mot": "Le Seigneur des Anneaux",
-        "difficulté": 2
-    },
-    {
-        "mot": "Les 101 Dalmatiens",
-        "difficulté": 2
-    },
-    {
-        "mot": "Les Aristochats",
-        "difficulté": 2
-    },
-    {
-        "mot": "Les Choristes",
-        "difficulté": 2
-    },
-    {
-        "mot": "Les Dix Commandements",
-        "difficulté": 2
-    },
-    {
-        "mot": "Les Visiteurs",
-        "difficulté": 2
-    },
-    {
-        "mot": "Maman j'ai râté l'avion",
-        "difficulté": 2
-    },
-    {
-        "mot": "Peter Pan",
-        "difficulté": 2
-    },
-    {
-        "mot": "Pinocchio",
-        "difficulté": 2
-    },
-    {
-        "mot": "Qu'est-ce qu'on a fait au bon dieu ?",
-        "difficulté": 2
-    },
-    {
-        "mot": "Ratatouille",
-        "difficulté": 2
-    },
-    {
-        "mot": "Robin des Bois",
-        "difficulté": 2
-    },
-    {
-        "mot": "Shrek 2",
-        "difficulté": 2
-    },
-    {
-        "mot": "Sixième Sens",
-        "difficulté": 2
-    },
-    {
-        "mot": "Spider-Man: No Way Home",
-        "difficulté": 2
-    },
-    {
-        "mot": "Star Wars, épisode III : La Revanche des Sith",
-        "difficulté": 2
-    },
-    {
-        "mot": "Taken 2",
-        "difficulté": 2
-    },
-    {
-        "mot": "Taken 3",
-        "difficulté": 2
+        "mot": "Westworld",
+        "difficulté": 3
     }
 ]

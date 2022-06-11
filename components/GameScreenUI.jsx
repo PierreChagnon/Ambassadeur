@@ -47,7 +47,7 @@ export default function ({ list, handleButtonClick, count, teamName, numberOfWor
     })
 
     if (!fontsLoaded) {
-        return <AppLoading />
+        return <View />
     }
 
 
@@ -69,9 +69,9 @@ export default function ({ list, handleButtonClick, count, teamName, numberOfWor
                 <View style={{ height: 72 }}>
                     <Text allowFontScaling={false} style={
                         [
-                            { fontSize: 36, color: "#EDFFEC", fontFamily: "Candela" },
-                            touch ? {} : { fontSize: 18, fontFamily: "Candela-Italic", lineHeight: 72 }
-                            //Ici je met la lineHeight à 72 pour que rien ne bouge lorsqu'on change de fontSize. 
+                            { fontSize: 28, color: "#EDFFEC", fontFamily: "Candela", textAlign: "center" },
+                            touch ? {} : { fontSize: 18, fontFamily: "Candela-Italic", lineHeight: 56 }
+                            //Ici je met la lineHeight à 56 pour que rien ne bouge lorsqu'on change de fontSize. 
                             //Elle est par défaut à 36 pour pouvoir "accueillir" une fontSize à 36 sans bouger les éléments autour.
                         ]
                     }>

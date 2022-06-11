@@ -19,10 +19,6 @@
         "difficulté": 2
     },
     {
-        "mot": "Anabolysants",
-        "difficulté": 4
-    },
-    {
         "mot": "Appareil photo",
         "difficulté": 1
     },
@@ -231,47 +227,1047 @@
         "difficulté": 1
     },
     {
-        "mot": "Tourner en eau de boudin",
-        "difficulté": 2
-    },
-    {
-        "mot": "Se porter comme un charme",
-        "difficulté": 2
-    },
-    {
-        "mot": "Découvrir le poteau rose",
-        "difficulté": 3
-    },
-    {
-        "mot": "A la queue leu leu",
+        "mot": "Livre",
         "difficulté": 1
     },
     {
-        "mot": "Au pied de la lettre",
-        "difficulté": 2
-    },
-    {
-        "mot": "Mettre la charue avant les bœufs",
-        "difficulté": 3
-    },
-    {
-        "mot": "Avoir un poil sur la main",
+        "mot": "Loupe",
         "difficulté": 1
     },
     {
-        "mot": "Passer comme une lettre à la poste",
+        "mot": "Lunettes de soleil",
+        "difficulté": 1
+    },
+    {
+        "mot": "Lustre",
         "difficulté": 2
     },
     {
-        "mot": "Il y a péril en la demeure",
-        "difficulté": 4
+        "mot": "Manivelle",
+        "difficulté": 2
     },
     {
-        "mot": "Mi-figue mi-raisin",
+        "mot": "Marque-page",
+        "difficulté": 2
+    },
+    {
+        "mot": "Monocycle",
+        "difficulté": 2
+    },
+    {
+        "mot": "Montre à gousset",
         "difficulté": 3
     },
     {
-        "mot": "Bâtir des châteaux en Espagne",
-        "difficulté": 4
+        "mot": "Moustiquaire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Paillettes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Papier peint",
+        "difficulté": 2
+    },
+    {
+        "mot": "Parapluie",
+        "difficulté": 1
+    },
+    {
+        "mot": "Paravent",
+        "difficulté": 3
+    },
+    {
+        "mot": "Peluche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pèse-personne",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pied de chaise",
+        "difficulté": 2
+    },
+    {
+        "mot": "Piège à loup",
+        "difficulté": 2
+    },
+    {
+        "mot": "Piège à ours",
+        "difficulté": 3
+    },
+    {
+        "mot": "Pince à linge",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pince",
+        "difficulté": 1
+    },
+    {
+        "mot": "Pinceau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Plaid",
+        "difficulté": 2
+    },
+    {
+        "mot": "Playmobil",
+        "difficulté": 1
+    },
+    {
+        "mot": "Poubelle",
+        "difficulté": 1
+    },
+    {
+        "mot": "Poupée articulée",
+        "difficulté": 3
+    },
+    {
+        "mot": "Poupée",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pull over",
+        "difficulté": 2
+    },
+    {
+        "mot": "Radio",
+        "difficulté": 2
+    },
+    {
+        "mot": "Récepteur radio",
+        "difficulté": 2
+    },
+    {
+        "mot": "Réfrigirateur",
+        "difficulté": 1
+    },
+    {
+        "mot": "Robinet",
+        "difficulté": 1
+    },
+    {
+        "mot": "Ruban adhésif",
+        "difficulté": 2
+    },
+    {
+        "mot": "Salopette",
+        "difficulté": 2
+    },
+    {
+        "mot": "Savon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sécateur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sèche-cheveux",
+        "difficulté": 1
+    },
+    {
+        "mot": "Serpillère",
+        "difficulté": 2
+    },
+    {
+        "mot": "Slip de bain",
+        "difficulté": 2
+    },
+    {
+        "mot": "Smartphone",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sopalin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sophie la girafe",
+        "difficulté": 3
+    },
+    {
+        "mot": "Surligneur",
+        "difficulté": 2
+    },
+    {
+        "mot": "T-shirt",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tapis de souris",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tasse",
+        "difficulté": 1
+    },
+    {
+        "mot": "Télécommande",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tirelire",
+        "difficulté": 1
+    },
+    {
+        "mot": "Traversin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tricycle électrique",
+        "difficulté": 2
+    },
+    {
+        "mot": "Trousse à crayon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Abribus",
+        "difficulté": 1
+    },
+    {
+        "mot": "Aimant",
+        "difficulté": 2
+    },
+    {
+        "mot": "Appentis",
+        "difficulté": 2
+    },
+    {
+        "mot": "Arc",
+        "difficulté": 1
+    },
+    {
+        "mot": "Bol",
+        "difficulté": 1
+    },
+    {
+        "mot": "Boulet de canon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Canapé convertible",
+        "difficulté": 2
+    },
+    {
+        "mot": "Canapé d'angle",
+        "difficulté": 2
+    },
+    {
+        "mot": "Canapé",
+        "difficulté": 1
+    },
+    {
+        "mot": "Casse-noix",
+        "difficulté": 2
+    },
+    {
+        "mot": "Chapeau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Chevalet",
+        "difficulté": 3
+    },
+    {
+        "mot": "Coquetier",
+        "difficulté": 3
+    },
+    {
+        "mot": "Couteau à beurre",
+        "difficulté": 1
+    },
+    {
+        "mot": "Couteau à pain",
+        "difficulté": 2
+    },
+    {
+        "mot": "Couteau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Couvercle",
+        "difficulté": 1
+    },
+    {
+        "mot": "Drap housse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Dressing",
+        "difficulté": 2
+    },
+    {
+        "mot": "Économe",
+        "difficulté": 2
+    },
+    {
+        "mot": "Écumoire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Faitout",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fauteuil à bascule",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fauteuil de jardin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Flocon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Fouet",
+        "difficulté": 1
+    },
+    {
+        "mot": "Garage",
+        "difficulté": 1
+    },
+    {
+        "mot": "Gaufrier",
+        "difficulté": 2
+    },
+    {
+        "mot": "Hachoir",
+        "difficulté": 2
+    },
+    {
+        "mot": "Interphone",
+        "difficulté": 2
+    },
+    {
+        "mot": "Katana",
+        "difficulté": 2
+    },
+    {
+        "mot": "Lit à baldaquin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lit",
+        "difficulté": 1
+    },
+    {
+        "mot": "Matelas gonflable",
+        "difficulté": 2
+    },
+    {
+        "mot": "Matelas",
+        "difficulté": 1
+    },
+    {
+        "mot": "Mégaphone",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mortier",
+        "difficulté": 2
+    },
+    {
+        "mot": "Moule à gateau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Moulin",
+        "difficulté": 1
+    },
+    {
+        "mot": "Oreiller",
+        "difficulté": 1
+    },
+    {
+        "mot": "Pilon",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pouf",
+        "difficulté": 2
+    },
+    {
+        "mot": "Presse agrumes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Presse citron",
+        "difficulté": 2
+    },
+    {
+        "mot": "Presse purée",
+        "difficulté": 2
+    },
+    {
+        "mot": "Presse-ail",
+        "difficulté": 2
+    },
+    {
+        "mot": "Radar de recul",
+        "difficulté": 2
+    },
+    {
+        "mot": "Repose-pieds",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rétro-projecteur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rouleau à patisserie",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sac à bandoulière",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sac à dos",
+        "difficulté": 1
+    },
+    {
+        "mot": "Saladier",
+        "difficulté": 1
+    },
+    {
+        "mot": "Salon de jardin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Scalpel",
+        "difficulté": 2
+    },
+    {
+        "mot": "Suppositoire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tapis de bain",
+        "difficulté": 2
+    },
+    {
+        "mot": "Thermomètre infrarouge",
+        "difficulté": 2
+    },
+    {
+        "mot": "Thermomètre",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tonneau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tote bag",
+        "difficulté": 2
+    },
+    {
+        "mot": "Totem",
+        "difficulté": 2
+    },
+    {
+        "mot": "Transat",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tupperware",
+        "difficulté": 2
+    },
+    {
+        "mot": "Verre doseur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Wok",
+        "difficulté": 2
+    },
+    {
+        "mot": "Baguette de pain",
+        "difficulté": 1
+    },
+    {
+        "mot": "Baguette magique",
+        "difficulté": 1
+    },
+    {
+        "mot": "Balance de cuisine",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bassine",
+        "difficulté": 1
+    },
+    {
+        "mot": "Boite",
+        "difficulté": 1
+    },
+    {
+        "mot": "Cabane",
+        "difficulté": 1
+    },
+    {
+        "mot": "Charpente",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cloche",
+        "difficulté": 1
+    },
+    {
+        "mot": "Couverture",
+        "difficulté": 1
+    },
+    {
+        "mot": "Cuillère à café",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cuillère à soupe",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cuillère",
+        "difficulté": 1
+    },
+    {
+        "mot": "Épée",
+        "difficulté": 1
+    },
+    {
+        "mot": "Flêche",
+        "difficulté": 1
+    },
+    {
+        "mot": "Friteuse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Hachette",
+        "difficulté": 2
+    },
+    {
+        "mot": "Horloge",
+        "difficulté": 1
+    },
+    {
+        "mot": "House de couette",
+        "difficulté": 2
+    },
+    {
+        "mot": "Lampe",
+        "difficulté": 1
+    },
+    {
+        "mot": "ULouche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Maison",
+        "difficulté": 1
+    },
+    {
+        "mot": "Maryse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Méridienne",
+        "difficulté": 2
+    },
+    {
+        "mot": "Montre",
+        "difficulté": 1
+    },
+    {
+        "mot": "Pergola",
+        "difficulté": 3
+    },
+    {
+        "mot": "Poêle à crèpes",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sacoche",
+        "difficulté": 1
+    },
+    {
+        "mot": "Spatule",
+        "difficulté": 1
+    },
+    {
+        "mot": "Télévision",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tonnelle",
+        "difficulté": 3
+    },
+    {
+        "mot": "Veilleuse",
+        "difficulté": 1
+    },
+    {
+        "mot": "Vélo",
+        "difficulté": 1
+    },
+    {
+        "mot": "Ventilateur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Verre",
+        "difficulté": 1
+    },
+    {
+        "mot": "Voilier",
+        "difficulté": 2
+    },
+    {
+        "mot": "Volet",
+        "difficulté": 1
+    },
+    {
+        "mot": "Xylophone",
+        "difficulté": 3
+    },
+    {
+        "mot": "Yo-yo",
+        "difficulté": 2
+    },
+    {
+        "mot": "Batte de baseball",
+        "difficulté": 2
+    },
+    {
+        "mot": "Boite à Meuhhh",
+        "difficulté": 3
+    },
+    {
+        "mot": "Boîte à Outils",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bombe de peinture rouge",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bonhomme de neige",
+        "difficulté": 1
+    },
+    {
+        "mot": "Boomrang",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bottin téléphonique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Bougie d'anniversaire",
+        "difficulté": 1
+    },
+    {
+        "mot": "Boule de cristal",
+        "difficulté": 2
+    },
+    {
+        "mot": "Boulet",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bouteille vide",
+        "difficulté": 2
+    },
+    {
+        "mot": "Brin de muguet",
+        "difficulté": 2
+    },
+    {
+        "mot": "Broche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Caddie de supermarché",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cadeau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Calculette rétro-éclairée",
+        "difficulté": 3
+    },
+    {
+        "mot": "Camion",
+        "difficulté": 1
+    },
+    {
+        "mot": "Canon",
+        "difficulté": 2
+    },
+    {
+        "mot": "Carotte",
+        "difficulté": 1
+    },
+    {
+        "mot": "Carte au trésor",
+        "difficulté": 2
+    },
+    {
+        "mot": "Casque de chantier",
+        "difficulté": 2
+    },
+    {
+        "mot": "Casque viking",
+        "difficulté": 3
+    },
+    {
+        "mot": "CD-ROM",
+        "difficulté": 2
+    },
+    {
+        "mot": "Chapeau de magicien",
+        "difficulté": 2
+    },
+    {
+        "mot": "Char de combat",
+        "difficulté": 2
+    },
+    {
+        "mot": "Chaudron",
+        "difficulté": 2
+    },
+    {
+        "mot": "Chaussure de tennis",
+        "difficulté": 3
+    },
+    {
+        "mot": "Cheese-burger",
+        "difficulté": 2
+    },
+    {
+        "mot": "Chocolats",
+        "difficulté": 1
+    },
+    {
+        "mot": "Citrouille",
+        "difficulté": 1
+    },
+    {
+        "mot": "Citrouille d'Halloween",
+        "difficulté": 2
+    },
+    {
+        "mot": "Clef anglaise",
+        "difficulté": 2
+    },
+    {
+        "mot": "Clémentine",
+        "difficulté": 1
+    },
+    {
+        "mot": "Cloche de Pâques",
+        "difficulté": 2
+    },
+    {
+        "mot": "Coffre au trésor",
+        "difficulté": 2
+    },
+    {
+        "mot": "Couronne",
+        "difficulté": 1
+    },
+    {
+        "mot": "Croque Monsieur",
+        "difficulté": 1
+    },
+    {
+        "mot": "Décapsuleur",
+        "difficulté": 2
+    },
+    {
+        "mot": "Détecteur de métaux",
+        "difficulté": 3
+    },
+    {
+        "mot": "Détritus",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dynamite",
+        "difficulté": 2
+    },
+    {
+        "mot": "Enclume",
+        "difficulté": 2
+    },
+    {
+        "mot": "Excalibur",
+        "difficulté": 1
+    },
+    {
+        "mot": "Fer à repasser",
+        "difficulté": 2
+    },
+    {
+        "mot": "Four à pains",
+        "difficulté": 2
+    },
+    {
+        "mot": "Fraise",
+        "difficulté": 1
+    },
+    {
+        "mot": "Fusée de la NASA",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fusil à pompe",
+        "difficulté": 2
+    },
+    {
+        "mot": "Gant de boxe",
+        "difficulté": 2
+    },
+    {
+        "mot": "Gateau au chocolat",
+        "difficulté": 1
+    },
+    {
+        "mot": "Glaçon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Glaive en or",
+        "difficulté": 2
+    },
+    {
+        "mot": "Grimoire magique",
+        "difficulté": 2
+    },
+    {
+        "mot": "Guinness",
+        "difficulté": 3
+    },
+    {
+        "mot": "Guitare Acoustique",
+        "difficulté": 2
+    },
+    {
+        "mot": "Guitare électrique",
+        "difficulté": 2
+    },
+    {
+        "mot": "Hache",
+        "difficulté": 1
+    },
+    {
+        "mot": "Haltères",
+        "difficulté": 2
+    },
+    {
+        "mot": "Jaune d'œuf",
+        "difficulté": 1
+    },
+    {
+        "mot": "La pate à modeler",
+        "difficulté": 1
+    },
+    {
+        "mot": "Laboratoire du petit chimiste",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lasso",
+        "difficulté": 2
+    },
+    {
+        "mot": "Livre de cuisine",
+        "difficulté": 2
+    },
+    {
+        "mot": "Marmitte",
+        "difficulté": 2
+    },
+    {
+        "mot": "Massue",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mongolfière",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mot doux",
+        "difficulté": 2
+    },
+    {
+        "mot": "Moto de course",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mouche",
+        "difficulté": 1
+    },
+    {
+        "mot": "Mug brûlant",
+        "difficulté": 3
+    },
+    {
+        "mot": "Oeuf de dragon",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ours en peluche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pack de bières",
+        "difficulté": 2
+    },
+    {
+        "mot": "Paquet de clopes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Parasol",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pêche",
+        "difficulté": 1
+    },
+    {
+        "mot": "Pelle",
+        "difficulté": 1
+    },
+    {
+        "mot": "Pelotte de laine",
+        "difficulté": 2
+    },
+    {
+        "mot": "Perceuse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Petit train",
+        "difficulté": 1
+    },
+    {
+        "mot": "Pierre magique",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pigeon voyageur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Piles",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pixel",
+        "difficulté": 3
+    },
+    {
+        "mot": "Poisson",
+        "difficulté": 1
+    },
+    {
+        "mot": "Poisson d'avril",
+        "difficulté": 2
+    },
+    {
+        "mot": "Poisson rouge",
+        "difficulté": 2
+    },
+    {
+        "mot": "Poivrière",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pot de miel",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pot de peinture bleue",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rateau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sac poubelle",
+        "difficulté": 1
+    },
+    {
+        "mot": "Salière",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sonde spatial",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tabouret",
+        "difficulté": 2
+    },
+    {
+        "mot": "Télécommande infrarouge",
+        "difficulté": 3
+    },
+    {
+        "mot": "Téléphérique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Téléphone portable",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tenue de Batman",
+        "difficulté": 3
+    },
+    {
+        "mot": "Trèfle à 3 feuilles",
+        "difficulté": 2
+    },
+    {
+        "mot": "Trèfle à 4 feuilles",
+        "difficulté": 2
+    },
+    {
+        "mot": "Voiture de course",
+        "difficulté": 2
+    },
+    {
+        "mot": "Voiture téléguidée",
+        "difficulté": 2
+    },
+    {
+        "mot": "Walkman",
+        "difficulté": 2
+    },
+    {
+        "mot": "Webcam",
+        "difficulté": 2
+    },
+    {
+        "mot": "Nain de jardin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Casse-tête",
+        "difficulté": 2
     }
 ]

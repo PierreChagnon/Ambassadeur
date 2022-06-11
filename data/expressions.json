@@ -31,10 +31,6 @@
         "difficulté": 3
     },
     {
-        "mot": "La Saint-Glinglin",
-        "difficulté": 4
-    },
-    {
         "mot": "Poser un lapin",
         "difficulté": 2
     },
@@ -69,10 +65,6 @@
     {
         "mot": "Mettre la main à la pâte",
         "difficulté": 3
-    },
-    {
-        "mot": "Par monts et par vaux",
-        "difficulté": 4
     },
     {
         "mot": "Rouler dans la farine",
@@ -111,32 +103,12 @@
         "difficulté": 2
     },
     {
-        "mot": "Mener une vie de patachon",
-        "difficulté": 4
-    },
-    {
         "mot": "De la poudre aux yeux",
         "difficulté": 3
     },
     {
-        "mot": "Comme un pet sur une toile cirée",
-        "difficulté": 4
-    },
-    {
-        "mot": "Tuer la poule aux œufs d'or",
-        "difficulté": 4
-    },
-    {
-        "mot": "Un secret de polichinelle",
-        "difficulté": 4
-    },
-    {
         "mot": "Ne faire semblant de rien",
         "difficulté": 3
-    },
-    {
-        "mot": "Prendre des vessies pour des lanternes",
-        "difficulté": 4
     },
     {
         "mot": "Avoir le nez creux",
@@ -145,10 +117,6 @@
     {
         "mot": "En prendre pour son grade",
         "difficulté": 3
-    },
-    {
-        "mot": "A brule-pourpoint",
-        "difficulté": 4
     },
     {
         "mot": "De but en blanc",
@@ -263,15 +231,835 @@
         "difficulté": 2
     },
     {
-        "mot": "Il y a péril en la demeure",
-        "difficulté": 4
-    },
-    {
         "mot": "Mi-figue mi-raisin",
         "difficulté": 3
     },
     {
-        "mot": "Bâtir des châteaux en Espagne",
-        "difficulté": 4
+        "mot": "A bonne école",
+        "difficulté": 1
+    },
+    {
+        "mot": "Péter plus haut que son cul",
+        "difficulté": 3
+    },
+    {
+        "mot": "Bête comme un chou",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mettre le feu aux poudres",
+        "difficulté": 2
+    },
+    {
+        "mot": "La goutte d'eau qui fait déborder le vase",
+        "difficulté": 2
+    },
+    {
+        "mot": "Comme un coq en pâte",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tirer des plans sur la comète",
+        "difficulté": 3
+    },
+    {
+        "mot": "S'ennuyer comme un rat mort",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sur la touche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Filer du mauvais coton",
+        "difficulté": 3
+    },
+    {
+        "mot": "On ne peut pas être à la fois au four et au moulin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Copains comme cochons",
+        "difficulté": 1
+    },
+    {
+        "mot": "Comme cul et chemise",
+        "difficulté": 2
+    },
+    {
+        "mot": "Clouer le bec",
+        "difficulté": 1
+    },
+    {
+        "mot": "Être dans le coaltar",
+        "difficulté": 2
+    },
+    {
+        "mot": "Donner sa langue au chat",
+        "difficulté": 1
+    },
+    {
+        "mot": "Le jeu n'en vaut pas la chandelle",
+        "difficulté": 3
+    },
+    {
+        "mot": "Minute papillon",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sur le pouce",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ne pas avoir inventé l'eau chaude",
+        "difficulté": 2
+    },
+    {
+        "mot": "Avoir d'autres chauts à fouetter",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ne pas bouger d'un iota",
+        "difficulté": 3
+    },
+    {
+        "mot": "Garder son sang-froid",
+        "difficulté": 3
+    },
+    {
+        "mot": "Compter pour du beurre",
+        "difficulté": 3
+    },
+    {
+        "mot": "Marquer d'une pierre blanche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Aller se faire voir chez les grecs",
+        "difficulté": 3
+    },
+    {
+        "mot": "Remettre les pendules à l'heure",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tenir la chandelle",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cinquième roue du carosse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Faire la fine bouche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Jeter le bébé dans l'eau du bain",
+        "difficulté": 3
+    },
+    {
+        "mot": "Faire long feu",
+        "difficulté": 2
+    },
+    {
+        "mot": "Être au pied du mur",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fleur bleue",
+        "difficulté": 2
+    },
+    {
+        "mot": "Voir midi à sa porte",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rester de marbre",
+        "difficulté": 3
+    },
+    {
+        "mot": "Être habillé pour l'hiver",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se mettre les doigts dans le nez",
+        "difficulté": 1
+    },
+    {
+        "mot": "Froid de canard",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se mettre sur son trente-et-un",
+        "difficulté": 2
+    },
+    {
+        "mot": "Vivre au jour le jour",
+        "difficulté": 2
+    },
+    {
+        "mot": "Une fois pour toutes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Une fois n'est pas coutume",
+        "difficulté": 2
+    },
+    {
+        "mot": "Un trou de mémoire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Un travail de titan",
+        "difficulté": 2
+    },
+    {
+        "mot": "Un prêté pour un rendu",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un pour tous et tous pour un",
+        "difficulté": 1
+    },
+    {
+        "mot": "Être pince-sans-rire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un pavé dans la mare",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un panier de crabes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Un nom à coucher dehors",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un monte-en-l'air",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un homme de parole",
+        "difficulté": 2
+    },
+    {
+        "mot": "Un homme averti en vaut deux",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un goût de reviens-y",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un étouffe-chrétien",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un de ces quatre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Un cadavre dans le placard",
+        "difficulté": 3
+    },
+    {
+        "mot": "Un ange passe",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tuer le temps",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tuer dans l'œuf",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tu vas voir ce que tu vas voir",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tu peux toujours courir",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tu l'as dit bouffi",
+        "difficulté": 2
+    },
+    {
+        "mot": "Trouver un terrain d'entente",
+        "difficulté": 3
+    },
+    {
+        "mot": "Trouver chaussure à son pied",
+        "difficulté": 3
+    },
+    {
+        "mot": "Trotter dans la tête",
+        "difficulté": 2
+    },
+    {
+        "mot": "Trop beau pour être vrai",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tronche de cake",
+        "difficulté": 2
+    },
+    {
+        "mot": "Trois fois rien",
+        "difficulté": 1
+    },
+    {
+        "mot": "Trembler comme une feuille",
+        "difficulté": 2
+    },
+    {
+        "mot": "Treize à la douzaine",
+        "difficulté": 2
+    },
+    {
+        "mot": "Travailler au noir",
+        "difficulté": 2
+    },
+    {
+        "mot": "Transmettre le flambeau",
+        "difficulté": 3
+    },
+    {
+        "mot": "Toutes les bonnes choses ont une fin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Toute vérité n'est pas bonne à dire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tout travail mérite salaire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Toute la sainte journée",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tout schuss",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tout nouveau, tout beau",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tout feu tout flamme",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tout est bien qui finit bien",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tous les trente-six du mois",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tous les goûts sont dans la nature",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tous les chemins mènent à Rome",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tourner les talons",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tourner la page",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tourner en rond",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tourner en bourrique",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tourner comme un lion en cage",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tourner autour du pot",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tourner au vinaigre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Toucher le pactole",
+        "difficulté": 3
+    },
+    {
+        "mot": "Toucher au but",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ton père n'est pas vitrier",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tomber du lit",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tomber des nues",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tomber de son piedestal",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tomber à l'eau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tomber à la renverse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tirer sur la corde",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tirer sur l'ambulance",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tirer son épingle du jeu",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tirer son chapeau",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tirer sa révérance",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tirer les vers du nez",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tirer le portrait",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tirer la sonette d'alarme",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tirer à la courte paille",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tête-bêche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Avoir la tête en l'air",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tête de mule",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tenir parole",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tendre l'oreille",
+        "difficulté": 1
+    },
+    {
+        "mot": "Tambour batant",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sur le pied de guerre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sur la sellette",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sous les projecteurs",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sourd comme un pot",
+        "difficulté": 3
+    },
+    {
+        "mot": "Soupe au lait",
+        "difficulté": 2
+    },
+    {
+        "mot": "Soupe à la grimace",
+        "difficulté": 2
+    },
+    {
+        "mot": "Souffler sur les braises",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sortir le grand jeu",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sortir des sentiers battus",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sonner le glas",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mon sang n'a fait qu'un tour",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sombrer dans la folie",
+        "difficulté": 2
+    },
+    {
+        "mot": "Six pieds sous terre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Simple comme bonjour",
+        "difficulté": 2
+    },
+    {
+        "mot": "Signer son arrêt de mort",
+        "difficulté": 3
+    },
+    {
+        "mot": "Siffler une bouteille",
+        "difficulté": 2
+    },
+    {
+        "mot": "Serrer les fesses",
+        "difficulté": 2
+    },
+    {
+        "mot": "Serrer les dents",
+        "difficulté": 1
+    },
+    {
+        "mot": "Serrer la pince",
+        "difficulté": 1
+    },
+    {
+        "mot": "Le vent tourne",
+        "difficulté": 2
+    },
+    {
+        "mot": "Secouer comme un prunier",
+        "difficulté": 3
+    },
+    {
+        "mot": "Séance tenante",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se voiler la face",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se vendre comme des petits pains",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se tourner les pouces",
+        "difficulté": 1
+    },
+    {
+        "mot": "Se torturer les méninges",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se tordre de rire",
+        "difficulté": 1
+    },
+    {
+        "mot": "Se tirer une balle dans le pied",
+        "difficulté": 1
+    },
+    {
+        "mot": "Se tirer la bourre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se tenir à carreau",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se taper la tête contre les murs",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se sortir les doigts du cul",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se serrer les coudes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se serrer la ceinture",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se salir les mains",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se saigner aux quatre veines",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se ronger les sangs",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se rincer l'œil",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se retourner dans sa tombe",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se ressembler comme deux gouttes d'eau",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se reposer sur ses lauriers",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se peler le cul",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se noyer dans un verre d'eau",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se mettre au vert",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se faire taper sur les doigts",
+        "difficulté": 3
+    },
+    {
+        "mot": "Déployer ses ailes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pisser dans un violon",
+        "difficulté": 3
+    },
+    {
+        "mot": "Se faire marcher sur les pieds",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mouiller son slip",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pousser mémé dans les orthies",
+        "difficulté": 3
+    },
+    {
+        "mot": "Faire le grand saut",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se mettre le doigt dans l'œil",
+        "difficulté": 2
+    },
+    {
+        "mot": "Se bander les yeux",
+        "difficulté": 1
+    },
+    {
+        "mot": "Se fourrer le doigt dans l'œil jusqu'au coude",
+        "difficulté": 2
+    },
+    {
+        "mot": "Un tiens vaut mieux que deux tu l'auras",
+        "difficulté": 3
+    },
+    {
+        "mot": "C'est celui qui dit qui est",
+        "difficulté": 3
+    },
+    {
+        "mot": "Etre une bonne poire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Gagner des mille et des cents",
+        "difficulté": 2
+    },
+    {
+        "mot": "Savonner la plance",
+        "difficulté": 3
+    },
+    {
+        "mot": "Savoir y faire",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sauver la mise",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sauve qui peut !",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sauter au plafond",
+        "difficulté": 2
+    },
+    {
+        "mot": "Saut de puce",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sans tambour ni trompette",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sans queue ni tête",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sans prendre des gants",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ne pas y aller avec le dos de la cuillère",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sans foi ni loi",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sans faute",
+        "difficulté": 1
+    },
+    {
+        "mot": "Sage comme une image",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sabrer le champagne",
+        "difficulté": 2
+    },
+    {
+        "mot": "S'engouffrer dans la brèche",
+        "difficulté": 2
+    },
+    {
+        "mot": "S'en mordre les doigts",
+        "difficulté": 2
+    },
+    {
+        "mot": "S'en mettre plein les poches",
+        "difficulté": 3
+    },
+    {
+        "mot": "S'en battre l'œil",
+        "difficulté": 2
+    },
+    {
+        "mot": "S'emmêler les pinceaux",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rouler une pelle",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rouler sur l'or",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rouler sous la table",
+        "difficulté": 1
+    },
+    {
+        "mot": "Rouler sa bosse",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rouler des mécaniques",
+        "difficulté": 3
+    },
+    {
+        "mot": "Roule ma poule !",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rouge comme une tomate",
+        "difficulté": 2
+    },
+    {
+        "mot": "Ronger son frein",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rond comme queue de pelle",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rompre les rangs",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rire comme un bossu",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rire aux larmes",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rira bien qui rira le dernier",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rien ne sert de courir, il faut partir à point",
+        "difficulté": 2
+    },
+    {
+        "mot": "Le revers de la médaille",
+        "difficulté": 3
     }
 ]

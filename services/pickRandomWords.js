@@ -1,11 +1,14 @@
-import data from "../data/data.json";
-import expressions from "../data/expressions.json"
+import expressions from "../data/expressions.json";
 import objets from "../data/objets.json"
 import personnes from "../data/personnes.json"
 import titres from "../data/titres.json"
+import activités from "../data/activités.json"
+import faune_flaure from "../data/faune_flaure.json"
+import mots from "../data/mots.json"
+import personnages from "../data/personnages.json"
 
 export default (numberOfWords) => {
-    const topics = [expressions, objets, personnes, titres]
+    const topics = [expressions, objets, personnes, titres, activités, faune_flaure, mots, personnages]
 
     const recette_10 = [1, 1, 1, 2, 1, 2, 1, 1]
     const recette_15 = [2, 1, 2, 2, 2, 2, 2, 2]

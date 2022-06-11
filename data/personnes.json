@@ -3,10 +3,6 @@
         "difficulté": 2
     },
     {
-        "mot": "Madame de Pompadour",
-        "difficulté": 4
-    },
-    {
         "mot": "Emmanuel Macron",
         "difficulté": 1
     },
@@ -67,271 +63,1019 @@
         "difficulté": 3
     },
     {
-        "mot": "Nathalie Arthaud",
-        "difficulté": 4
-    },
-    {
-        "mot": "Nicolas Dupont-Aignan",
-        "difficulté": 4
-    },
-    {
         "mot": "Anne Hidalgo",
         "difficulté": 3
     },
     {
-        "mot": "Yannick Jadot",
-        "difficulté": 4
+        "mot": "Jean Lassalle",
+        "difficulté": 3
     },
     {
-        "mot": "Jennifer Lawrence",
-        "difficulté": 2
+        "mot": "Marine Lepen",
+        "difficulté": 3
     },
     {
-        "mot": "Madame de Pompadour",
-        "difficulté": 4
+        "mot": "Eric Zemmour",
+        "difficulté": 3
     },
     {
-        "mot": "Emmanuel Macron",
+        "mot": "François Bayrou",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lionel Jospin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Michel Sardou",
+        "difficulté": 3
+    },
+    {
+        "mot": "Eddy Mitchell",
+        "difficulté": 3
+    },
+    {
+        "mot": "Joe Dassin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dave",
+        "difficulté": 3
+    },
+    {
+        "mot": "Serge Gainsbourg",
+        "difficulté": 3
+    },
+    {
+        "mot": "Johnny Hallyday",
+        "difficulté": 3
+    },
+    {
+        "mot": "Kylian Mbappe",
         "difficulté": 1
     },
     {
-        "mot": "Justin Bieber",
+        "mot": "Zinédine Zidane",
         "difficulté": 1
     },
     {
-        "mot": "Jean-Luc Mélanchon",
+        "mot": "Michel Drucker",
         "difficulté": 2
     },
     {
-        "mot": "Jacques Chirac",
-        "difficulté": 2
-    },
-    {
-        "mot": "Nicolas Sarkozy",
-        "difficulté": 2
-    },
-    {
-        "mot": "François Hollande",
-        "difficulté": 2
-    },
-    {
-        "mot": "Charles de Gaulle",
-        "difficulté": 2
-    },
-    {
-        "mot": "Brigitte Macron",
+        "mot": "Julien Clerc",
         "difficulté": 3
     },
     {
-        "mot": "Valérie Pecresse",
+        "mot": "Florent Pagny",
         "difficulté": 3
     },
     {
-        "mot": "Joe Biden",
+        "mot": "Enrico Macias",
+        "difficulté": 3
+    },
+    {
+        "mot": "Hailey Bieber",
+        "difficulté": 3
+    },
+    {
+        "mot": "Selena Gomez",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ariana Grande",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rihana",
         "difficulté": 2
     },
     {
-        "mot": "Barack Obama",
+        "mot": "Mariah Carey",
+        "difficulté": 3
+    },
+    {
+        "mot": "Drake",
+        "difficulté": 3
+    },
+    {
+        "mot": "Harry Styles",
+        "difficulté": 3
+    },
+    {
+        "mot": "George Clooney",
         "difficulté": 2
     },
     {
-        "mot": "Angela Merkel",
+        "mot": "Jennifer Anniston",
         "difficulté": 3
     },
     {
-        "mot": "Edouard Philippe",
+        "mot": "Miley Cyrus",
         "difficulté": 3
     },
     {
-        "mot": "Donald Trump",
+        "mot": "Nicki Minaj",
         "difficulté": 3
     },
     {
-        "mot": "Jean-Pierre Pernaut",
-        "difficulté": 3
-    },
-    {
-        "mot": "Nathalie Arthaud",
-        "difficulté": 4
-    },
-    {
-        "mot": "Nicolas Dupont-Aignan",
-        "difficulté": 4
-    },
-    {
-        "mot": "Anne Hidalgo",
-        "difficulté": 3
-    },
-    {
-        "mot": "Yannick Jadot",
-        "difficulté": 4
-    },
-    {
-        "mot": "Jennifer Lawrence",
+        "mot": "Stephen Hawking",
         "difficulté": 2
     },
     {
-        "mot": "Madame de Pompadour",
-        "difficulté": 4
+        "mot": "Isaac Newton",
+        "difficulté": 3
     },
     {
-        "mot": "Emmanuel Macron",
+        "mot": "Stephen King",
+        "difficulté": 3
+    },
+    {
+        "mot": "Galilée",
+        "difficulté": 3
+    },
+    {
+        "mot": "Marie Curie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Charles Darwin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Bill Gates",
+        "difficulté": 2
+    },
+    {
+        "mot": "Elon Musk",
+        "difficulté": 3
+    },
+    {
+        "mot": "Thomas Edison",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mark Zuckerberg",
+        "difficulté": 3
+    },
+    {
+        "mot": "J.-K. Rowling",
+        "difficulté": 2
+    },
+    {
+        "mot": "Steven Spielberg",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tolkien",
+        "difficulté": 2
+    },
+    {
+        "mot": "Jack Nicholson",
+        "difficulté": 3
+    },
+    {
+        "mot": "Clint Eastwood",
+        "difficulté": 3
+    },
+    {
+        "mot": "Michael Keaton",
+        "difficulté": 3
+    },
+    {
+        "mot": "Robert De Niro",
+        "difficulté": 3
+    },
+    {
+        "mot": "Al Pacino",
+        "difficulté": 2
+    },
+    {
+        "mot": "Leonardo DiCaprio",
+        "difficulté": 2
+    },
+    {
+        "mot": "Neymar",
         "difficulté": 1
     },
     {
-        "mot": "Justin Bieber",
+        "mot": "Lionel Messi",
         "difficulté": 1
     },
     {
-        "mot": "Jean-Luc Mélanchon",
-        "difficulté": 2
-    },
-    {
-        "mot": "Jacques Chirac",
-        "difficulté": 2
-    },
-    {
-        "mot": "Nicolas Sarkozy",
-        "difficulté": 2
-    },
-    {
-        "mot": "François Hollande",
-        "difficulté": 2
-    },
-    {
-        "mot": "Charles de Gaulle",
-        "difficulté": 2
-    },
-    {
-        "mot": "Brigitte Macron",
-        "difficulté": 3
-    },
-    {
-        "mot": "Valérie Pecresse",
-        "difficulté": 3
-    },
-    {
-        "mot": "Joe Biden",
-        "difficulté": 2
-    },
-    {
-        "mot": "Barack Obama",
-        "difficulté": 2
-    },
-    {
-        "mot": "Angela Merkel",
-        "difficulté": 3
-    },
-    {
-        "mot": "Edouard Philippe",
-        "difficulté": 3
-    },
-    {
-        "mot": "Donald Trump",
-        "difficulté": 3
-    },
-    {
-        "mot": "Jean-Pierre Pernaut",
-        "difficulté": 3
-    },
-    {
-        "mot": "Nathalie Arthaud",
-        "difficulté": 4
-    },
-    {
-        "mot": "Nicolas Dupont-Aignan",
-        "difficulté": 4
-    },
-    {
-        "mot": "Anne Hidalgo",
-        "difficulté": 3
-    },
-    {
-        "mot": "Yannick Jadot",
-        "difficulté": 4
-    },
-    {
-        "mot": "Jennifer Lawrence",
-        "difficulté": 2
-    },
-    {
-        "mot": "Madame de Pompadour",
-        "difficulté": 4
-    },
-    {
-        "mot": "Emmanuel Macron",
+        "mot": "Cristiano Ronaldo",
         "difficulté": 1
     },
     {
-        "mot": "Justin Bieber",
+        "mot": "Karim Benzema",
+        "difficulté": 2
+    },
+    {
+        "mot": "Einstein",
         "difficulté": 1
     },
     {
-        "mot": "Jean-Luc Mélanchon",
-        "difficulté": 2
-    },
-    {
-        "mot": "Jacques Chirac",
-        "difficulté": 2
-    },
-    {
-        "mot": "Nicolas Sarkozy",
-        "difficulté": 2
-    },
-    {
-        "mot": "François Hollande",
-        "difficulté": 2
-    },
-    {
-        "mot": "Charles de Gaulle",
-        "difficulté": 2
-    },
-    {
-        "mot": "Brigitte Macron",
+        "mot": "Paul Pogba",
         "difficulté": 3
     },
     {
-        "mot": "Valérie Pecresse",
+        "mot": "Antoine Griezmann",
+        "difficulté": 1
+    },
+    {
+        "mot": "Zlatan Ibrahimović",
         "difficulté": 3
     },
     {
-        "mot": "Joe Biden",
+        "mot": "N'Golo Kanté",
         "difficulté": 2
     },
     {
-        "mot": "Barack Obama",
+        "mot": "Michael Jackson",
+        "difficulté": 1
+    },
+    {
+        "mot": "Michael Jordan",
         "difficulté": 2
     },
     {
-        "mot": "Angela Merkel",
+        "mot": "Whitney Houston",
         "difficulté": 3
     },
     {
-        "mot": "Edouard Philippe",
+        "mot": "Freddie Mercury",
+        "difficulté": 2
+    },
+    {
+        "mot": "Madonna",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bruno Mars",
         "difficulté": 3
     },
     {
-        "mot": "Donald Trump",
+        "mot": "Stephen Curry",
         "difficulté": 3
     },
     {
-        "mot": "Jean-Pierre Pernaut",
+        "mot": "LeBron James",
         "difficulté": 3
     },
     {
-        "mot": "Nathalie Arthaud",
-        "difficulté": 4
-    },
-    {
-        "mot": "Nicolas Dupont-Aignan",
-        "difficulté": 4
-    },
-    {
-        "mot": "Anne Hidalgo",
+        "mot": "Kobe Bryant",
         "difficulté": 3
     },
     {
-        "mot": "Yannick Jadot",
-        "difficulté": 4
+        "mot": "Roger Federer",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rafael Nadal",
+        "difficulté": 2
+    },
+    {
+        "mot": "Novak Djokovic",
+        "difficulté": 1
+    },
+    {
+        "mot": "Andy Murray",
+        "difficulté": 3
+    },
+    {
+        "mot": "Serena Williams",
+        "difficulté": 2
+    },
+    {
+        "mot": "Maria Sharapova",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tiger Woods",
+        "difficulté": 2
+    },
+    {
+        "mot": "Laure Manaudou",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tom Holland",
+        "difficulté": 3
+    },
+    {
+        "mot": "Robert Downey Jr.",
+        "difficulté": 3
+    },
+    {
+        "mot": "Scarlett Johansson",
+        "difficulté": 3
+    },
+    {
+        "mot": "Nelson Mandela",
+        "difficulté": 2
+    },
+    {
+        "mot": "Martin Luther King Jr.",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mère Teresa",
+        "difficulté": 2
+    },
+    {
+        "mot": "Simone Veil",
+        "difficulté": 2
+    },
+    {
+        "mot": "Rosa Parks",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fidel Castro",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jason Mraz",
+        "difficulté": 3
+    },
+    {
+        "mot": "John Legend",
+        "difficulté": 3
+    },
+    {
+        "mot": "Adele",
+        "difficulté": 2
+    },
+    {
+        "mot": "David Bowie",
+        "difficulté": 2
+    },
+    {
+        "mot": "Robbie Williams",
+        "difficulté": 2
+    },
+    {
+        "mot": "Robin Williams",
+        "difficulté": 2
+    },
+    {
+        "mot": "Kylie Minogue",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jim Carrey",
+        "difficulté": 2
+    },
+    {
+        "mot": "Angèle",
+        "difficulté": 1
+    },
+    {
+        "mot": "Roméo Elvis",
+        "difficulté": 2
+    },
+    {
+        "mot": "Juliette Armanet",
+        "difficulté": 2
+    },
+    {
+        "mot": "Vitaa",
+        "difficulté": 2
+    },
+    {
+        "mot": "Clara Luciani",
+        "difficulté": 3
+    },
+    {
+        "mot": "Damso",
+        "difficulté": 3
+    },
+    {
+        "mot": "Stromae",
+        "difficulté": 2
+    },
+    {
+        "mot": "Orelsan",
+        "difficulté": 2
+    },
+    {
+        "mot": "Nekfeu",
+        "difficulté": 3
+    },
+    {
+        "mot": "Louane",
+        "difficulté": 1
+    },
+    {
+        "mot": "Aya Nakamura",
+        "difficulté": 1
+    },
+    {
+        "mot": "Julien Doré",
+        "difficulté": 2
+    },
+    {
+        "mot": "Zaz",
+        "difficulté": 3
+    },
+    {
+        "mot": "Amel Bent",
+        "difficulté": 3
+    },
+    {
+        "mot": "Vald",
+        "difficulté": 3
+    },
+    {
+        "mot": "Soprano",
+        "difficulté": 1
+    },
+    {
+        "mot": "Napoleon Bonaparte",
+        "difficulté": 2
+    },
+    {
+        "mot": "Maximilien Robespierre",
+        "difficulté": 2
+    },
+    {
+        "mot": "Louis XVI",
+        "difficulté": 2
+    },
+    {
+        "mot": "Marie Antoinette",
+        "difficulté": 2
+    },
+    {
+        "mot": "Alexandre le Grand",
+        "difficulté": 2
+    },
+    {
+        "mot": "Louis XVIII",
+        "difficulté": 2
+    },
+    {
+        "mot": "Beethoven",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mozart",
+        "difficulté": 2
+    },
+    {
+        "mot": "Bach",
+        "difficulté": 2
+    },
+    {
+        "mot": "Vivaldi",
+        "difficulté": 3
+    },
+    {
+        "mot": "François Ier",
+        "difficulté": 2
+    },
+    {
+        "mot": "Marcel Proust",
+        "difficulté": 3
+    },
+    {
+        "mot": "Arthur Rimbaud",
+        "difficulté": 3
+    },
+    {
+        "mot": "Vincent Cassel",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jean-Jacques Goldman",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sophie Marceau",
+        "difficulté": 3
+    },
+    {
+        "mot": "Thomas Pesquet",
+        "difficulté": 2
+    },
+    {
+        "mot": "Marion Cotillard",
+        "difficulté": 3
+    },
+    {
+        "mot": "Omar Sy",
+        "difficulté": 2
+    },
+    {
+        "mot": "Francis Cabrel",
+        "difficulté": 2
+    },
+    {
+        "mot": "Florence Foresti",
+        "difficulté": 2
+    },
+    {
+        "mot": "Alexandra Lamy",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mimie Mathy",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mylène Farmer",
+        "difficulté": 3
+    },
+    {
+        "mot": "Valérie Lemercier",
+        "difficulté": 3
+    },
+    {
+        "mot": "Anne Roumanoff",
+        "difficulté": 3
+    },
+    {
+        "mot": "Françoise Hardy",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dany Boon",
+        "difficulté": 2
+    },
+    {
+        "mot": "Teddy Riner",
+        "difficulté": 3
+    },
+    {
+        "mot": "Philippe Etchebest",
+        "difficulté": 2
+    },
+    {
+        "mot": "Renaud",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cyril Lignac",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jean Reno",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jean-Luc Reichmann",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jean Dujardin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Evelyne Dhéliat",
+        "difficulté": 3
+    },
+    {
+        "mot": "Vanessa Paradis",
+        "difficulté": 3
+    },
+    {
+        "mot": "Muriel Robin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Nolwenn Leroy",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lorie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Kad Merad",
+        "difficulté": 3
+    },
+    {
+        "mot": "Christan Clavier",
+        "difficulté": 3
+    },
+    {
+        "mot": "Edouard Baer",
+        "difficulté": 3
+    },
+    {
+        "mot": "Charlotte Gainsbourg",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jenifer",
+        "difficulté": 2
+    },
+    {
+        "mot": "Yannick Noah",
+        "difficulté": 3
+    },
+    {
+        "mot": "Billie Eilish",
+        "difficulté": 3
+    },
+    {
+        "mot": "Britney Spears",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tim Cook",
+        "difficulté": 3
+    },
+    {
+        "mot": "Timbaland",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dr. Dre",
+        "difficulté": 3
+    },
+    {
+        "mot": "50. Cent",
+        "difficulté": 3
+    },
+    {
+        "mot": "Alicia Keys",
+        "difficulté": 2
+    },
+    {
+        "mot": "Lil Nas X",
+        "difficulté": 3
+    },
+    {
+        "mot": "Xi Jinping",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jeff Besos",
+        "difficulté": 2
+    },
+    {
+        "mot": "Oprah Winfrey",
+        "difficulté": 3
+    },
+    {
+        "mot": "Elvis Presley",
+        "difficulté": 2
+    },
+    {
+        "mot": "Mohamed Ali",
+        "difficulté": 3
+    },
+    {
+        "mot": "Michal Schumacher",
+        "difficulté": 3
+    },
+    {
+        "mot": "Denzel Washington",
+        "difficulté": 3
+    },
+    {
+        "mot": "Will Smith",
+        "difficulté": 2
+    },
+    {
+        "mot": "Johnny Depp",
+        "difficulté": 2
+    },
+    {
+        "mot": "Tom Hanks",
+        "difficulté": 3
+    },
+    {
+        "mot": "Dwayne Johnson",
+        "difficulté": 3
+    },
+    {
+        "mot": "Beyoncé",
+        "difficulté": 2
+    },
+    {
+        "mot": "Angelina Jolie",
+        "difficulté": 3
+    },
+    {
+        "mot": "Reine Elizabeth II",
+        "difficulté": 3
+    },
+    {
+        "mot": "Emma Watson",
+        "difficulté": 2
+    },
+    {
+        "mot": "Shakira",
+        "difficulté": 2
+    },
+    {
+        "mot": "Greta Thunberg",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rihanna",
+        "difficulté": 2
+    },
+    {
+        "mot": "Kylie Jenner",
+        "difficulté": 3
+    },
+    {
+        "mot": "Eminem",
+        "difficulté": 3
+    },
+    {
+        "mot": "Snoop Dogg",
+        "difficulté": 3
+    },
+    {
+        "mot": "Christophe Colomb",
+        "difficulté": 2
+    },
+    {
+        "mot": "Albert Einstein",
+        "difficulté": 2
+    },
+    {
+        "mot": "William Shakespeare",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jules César",
+        "difficulté": 2
+    },
+    {
+        "mot": "Jul",
+        "difficulté": 3
+    },
+    {
+        "mot": "René Descartes",
+        "difficulté": 3
+    },
+    {
+        "mot": "Voltaire",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sigmund Freud",
+        "difficulté": 3
+    },
+    {
+        "mot": "Johann Sebastian Bach",
+        "difficulté": 3
+    },
+    {
+        "mot": "Kim Jong-Un",
+        "difficulté": 3
+    },
+    {
+        "mot": "Kim Kardashian",
+        "difficulté": 2
+    },
+    {
+        "mot": "Kendall Jenner",
+        "difficulté": 3
+    },
+    {
+        "mot": "Natoo",
+        "difficulté": 3
+    },
+    {
+        "mot": "EnjoyPhoenix",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mister V",
+        "difficulté": 2
+    },
+    {
+        "mot": "Squeezie",
+        "difficulté": 2
+    },
+    {
+        "mot": "Cyprien",
+        "difficulté": 3
+    },
+    {
+        "mot": "Nabilla Vergara",
+        "difficulté": 2
+    },
+    {
+        "mot": "Léna Situations",
+        "difficulté": 3
+    },
+    {
+        "mot": "Daniel Balavoine",
+        "difficulté": 2
+    },
+    {
+        "mot": "Georges Brassens",
+        "difficulté": 2
+    },
+    {
+        "mot": "Selah Sue",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rosalia",
+        "difficulté": 3
+    },
+    {
+        "mot": "Daft Punk",
+        "difficulté": 2
+    },
+    {
+        "mot": "Pharrell Williams",
+        "difficulté": 3
+    },
+    {
+        "mot": "Lewis Hamilton",
+        "difficulté": 2
+    },
+    {
+        "mot": "Conor McGregor",
+        "difficulté": 3
+    },
+    {
+        "mot": "Pomme",
+        "difficulté": 3
+    },
+    {
+        "mot": "Mike Tyson",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sebastien Loeb",
+        "difficulté": 3
+    },
+    {
+        "mot": "Tony Parker",
+        "difficulté": 2
+    },
+    {
+        "mot": "Martin Fourcade",
+        "difficulté": 3
+    },
+    {
+        "mot": "Rudy Gobert",
+        "difficulté": 3
+    },
+    {
+        "mot": "Usain Bolt",
+        "difficulté": 2
+    },
+    {
+        "mot": "Sebastien Chabal",
+        "difficulté": 3
+    },
+    {
+        "mot": "The Beatles",
+        "difficulté": 3
+    },
+    {
+        "mot": "Queen",
+        "difficulté": 3
+    },
+    {
+        "mot": "AC/DC",
+        "difficulté": 3
+    },
+    {
+        "mot": "Nirvana",
+        "difficulté": 3
+    },
+    {
+        "mot": "Red Hot Chili Peppers",
+        "difficulté": 3
+    },
+    {
+        "mot": "Bob Marley",
+        "difficulté": 2
+    },
+    {
+        "mot": "Jimi Hendrix",
+        "difficulté": 3
+    },
+    {
+        "mot": "The Rolling Stones",
+        "difficulté": 3
+    },
+    {
+        "mot": "Denis Brogniart",
+        "difficulté": 3
+    },
+    {
+        "mot": "Stéphane Bern",
+        "difficulté": 3
+    },
+    {
+        "mot": "Coluche",
+        "difficulté": 2
+    },
+    {
+        "mot": "Jamel Debbouze",
+        "difficulté": 2
+    },
+    {
+        "mot": "Alain Chabat",
+        "difficulté": 2
+    },
+    {
+        "mot": "Eric et Ramzy",
+        "difficulté": 2
+    },
+    {
+        "mot": "Audrey Tautou",
+        "difficulté": 3
+    },
+    {
+        "mot": "Pierre Niney",
+        "difficulté": 3
+    },
+    {
+        "mot": "Jonathan Cohen",
+        "difficulté": 3
+    },
+    {
+        "mot": "Hugo Décrypte",
+        "difficulté": 3
+    },
+    {
+        "mot": "Kyan Khojandi",
+        "difficulté": 3
+    },
+    {
+        "mot": "Blanche Gardin",
+        "difficulté": 3
+    },
+    {
+        "mot": "Fary",
+        "difficulté": 3
+    },
+    {
+        "mot": "Louis Dubourg",
+        "difficulté": 3
+    },
+    {
+        "mot": "Roman Frayssinet",
+        "difficulté": 3
+    },
+    {
+        "mot": "Paul Mirabel",
+        "difficulté": 3
+    },
+    {
+        "mot": "Haroun",
+        "difficulté": 3
+    },
+    {
+        "mot": "Alban Ivanov",
+        "difficulté": 3
+    },
+    {
+        "mot": "Ahmed Sylla",
+        "difficulté": 3
+    },
+    {
+        "mot": "Gad Elmaleh",
+        "difficulté": 2
+    },
+    {
+        "mot": "Walt Disney",
+        "difficulté": 3
+    },
+    {
+        "mot": "Charlie Chaplin",
+        "difficulté": 2
+    },
+    {
+        "mot": "Venom",
+        "difficulté": 3
+    },
+    {
+        "mot": "Angus Stone",
+        "difficulté": 3
+    },
+    {
+        "mot": "Julia Stone",
+        "difficulté": 3
+    },
+    {
+        "mot": "Gringe",
+        "difficulté": 3
+    },
+    {
+        "mot": "Polochon (La Petite Sirène)",
+        "difficulté": 3
+    },
+    {
+        "mot": "Sébastien (La Petite Sirène)",
+        "difficulté": 3
+    },
+    {
+        "mot": "Vald",
+        "difficulté": 3
     }
 ]
