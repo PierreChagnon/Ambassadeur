@@ -66,11 +66,15 @@ export default function ({ navigation }) {
             }
            
             if (temp.length > 0) {
+                temp.reverse()
                 state.setWordsList(temp)
                 state.setNumberOfWords(temp.length)
                 navigation.navigate('StartScreen');
             }
         } else {
+            const temp = state.wordsList
+            const reversed = temp.reverse()
+            state.setWordsList(reversed)
             state.setNumberOfWords(state.wordsList.length)
             navigation.navigate('StartScreen');
         }
