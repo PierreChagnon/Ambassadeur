@@ -16,7 +16,7 @@ import { StateProvider } from './provider/StateProvider';
 
 const MyStack = () => {
   return (
-    <Stack.Navigator initialRouteName="TitleScreen" screenOptions={{ headerShown: false, }}>
+    <Stack.Navigator initialRouteName="GameSettings" screenOptions={{ headerShown: false, }}>
       <Stack.Screen name="TitleScreen" component={TitleScreen} />
       <Stack.Screen name="GameMasterHandler" component={GameMasterHandler} options={{ gestureEnabled: false }} />
       <Stack.Screen name="PlayerList" component={PlayerList} />
