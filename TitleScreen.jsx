@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { TouchableOpacity, Image, View } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
+import CustomText from './components/CustomText.jsx';
 
 import LinearGradientBackground from './LinearGradientBackground.jsx';
 
@@ -26,6 +27,9 @@ export default function ({ navigation }) {
             <TouchableOpacity style={styles.container} onPress={() => navigation.navigate('GameMasterHandler')} >
                 {/* ou navigation.push (navigation a plusieurs méthode: goBack, popToTop, etc.) */}
                 <Image onLoad={() => setLoaded(true)} style={{ width: "100%", opacity: imgOpacity }} resizeMode='contain' source={require("./assets/logo.png")} />
+                <View style={{position: "absolute", bottom: 30}}>
+                    <CustomText>Toucher pour continuer</CustomText>
+                </View>
             </TouchableOpacity>
         </LinearGradientBackground>
 

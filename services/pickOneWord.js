@@ -2,7 +2,7 @@ import expressions from "../data/expressions.json";
 import objets from "../data/objets.json"
 import personnes from "../data/personnes.json"
 import titres from "../data/titres.json"
-import activités from "../data/activités.json"
+import activités from "../data/activites.json"
 import faune_flaure from "../data/faune_flaure.json"
 import mots from "../data/mots.json"
 import personnages from "../data/personnages.json"
