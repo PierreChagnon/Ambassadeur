@@ -39,7 +39,7 @@ export default function ({ visible, currentWord, handlePickedWord, currentTeam, 
                     <CustomText color="#127299" lineHeight={24}>Quel était le mot à trouver ?</CustomText>
                     {choices.map((word, i) => {
                         return (
-                            <BottomButton key={i} width={200} next={() => handlePickedWord(word, currentTeam)}>{word}</BottomButton>
+                            <BottomButton key={i} width={200} fontSize={word.length > 20 ? 15 : 20} next={() => handlePickedWord(word, currentTeam)}>{word}</BottomButton>
                         )
                     })}
                 </View>

@@ -7,7 +7,7 @@ import { useFonts } from "expo-font";
 
 //import AppLoading from "expo-app-loading";
 
-export default function ({ width = 300, next, children, height = 90, absolutePosition = false }) {
+export default function ({ width = 300, next, children, height = 90, absolutePosition = false, fontSize = 20 }) {
     const isMountedVal = useRef(1);
     const window = useWindowDimensions();
     const [translateY, setTranslateY] = useState(0);
@@ -80,7 +80,7 @@ export default function ({ width = 300, next, children, height = 90, absolutePos
             style={[absolutePosition ? styles.bottom_button_container : "", { height: realHeight }]}
         >
             <View style={[styles.bottom_button, { transform: [{ translateY: translateY }], height: realHeight, backgroundColor: backgroundColor, width: realWidth }]} >
-                <Text allowFontScaling={false} style={[styles.button_text, { fontFamily: "Megalopolis-Extra", textAlign: "center" }]}>
+                <Text allowFontScaling={false} style={[styles.button_text, { fontSize: fontSize, fontFamily: "Megalopolis-Extra", textAlign: "center" }]}>
                     {children}
                 </Text>
             </View>

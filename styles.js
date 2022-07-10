@@ -71,7 +71,7 @@ export default StyleSheet.create({
     button_text: {
         color: "#EDFFEC",
         backgroundColor: "transparent",
-        fontSize: 20,
+        lineHeight: 20
     },
     bottom_button_container: {
         position: "absolute",
