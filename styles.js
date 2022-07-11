@@ -71,7 +71,7 @@ export default StyleSheet.create({
     button_text: {
         color: "#EDFFEC",
         backgroundColor: "transparent",
-        lineHeight: 20
+        lineHeight: 26
     },
     bottom_button_container: {
         position: "absolute",
@@ -220,15 +220,28 @@ export default StyleSheet.create({
         flexDirection: "row",
         justifyContent: "space-around",
         width: "100%",
-        flex: 1,
         alignItems: "flex-end",
-        paddingBottom: 5
+        flex: 1,
+        paddingBottom: 10
+    },
+    gameover_container: {
+        flex: 1,
+        backgroundColor: '#127299',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        paddingTop: 25,
+        paddingLeft: 10,
+        paddingRight: 10,
+        paddingBottom: 25,
+        width: "100%",
+        display: "flex"
     },
     gameover_top_container: {
         width: "100%",
-        flex: 2,
+        flex: 4,
         alignItems: "center",
-        justifyContent: "center",
+        paddingTop: 20,
+        justifyContent: "space-between"
     },
     help_button: {
         backgroundColor: "#EDFFEC",

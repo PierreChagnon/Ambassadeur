@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import { View } from "react-native";
+import { View, Image, ScrollView } from "react-native";
 
 import BottomButton from "../components/BottomButton"
 import CustomText from "../components/CustomText";
@@ -28,11 +28,25 @@ export default function ({ navigation }) {
     }
 
     return (
-        <View style={[styles.container, state.winner === "jaune" ? { backgroundColor: "#F2BB08" } : {}]}>
+        <View style={[styles.gameover_container, state.winner === "jaune" ? { backgroundColor: "#F2BB08" } : {}]}>
             <View style={styles.gameover_top_container}>
+                {
+                    state.winner === "jaune"
+                        ?
+                        <Image resizeMode='contain' source={require("../assets/trophy_yellow.png")} />
+                        :
+                        <Image resizeMode='contain' source={require("../assets/trophy_blue.png")} />
+                }
                 <CustomText >
-                    L'équipe {state.winner} a gagné !
+                    L'ÉQUIPE {state.winner.toUpperCase()} A GAGNÉ !
                 </CustomText>
+                <View style={{ borderColor:"#EDFFEC", borderBottomWidth: 2, borderTopWidth: 2, height: "60%" }}>
+                    <ScrollView contentContainerStyle={{padding: 20}} >
+                        {state.wordsList.reverse().map((word, i) => {
+                            return <View><CustomText key={i}>{word}</CustomText></View> 
+                        })}
+                    </ScrollView>
+                </View>
             </View>
             <View style={styles.gameover_bot_container}>
                 <BottomButton next={handleReplay} width={150} height={100}>
