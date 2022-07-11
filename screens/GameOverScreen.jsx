@@ -11,16 +11,11 @@ import styles from "../styles";
 export default function ({ navigation }) {
     const state = useContext(StateContext)
     const scrollAnim = useRef(new Animated.Value(0)).current
+    const scrollRef = useRef();
+    const listHeight = 60 * state.wordsList.length
 
-    const listHeight = 40 * state.wordsList.length
-
-    // useEffect(() => {
-    //     Animated.timing(scrollAnim, {
-    //         toValue: -200,
-    //         duration: 10000,
-    //         useNativeDriver: false
-    //     }).start();
-    // }, [])
+    let currentAnimValue
+    let animRunning = false
 
     const handleReplay = () => {
         navigation.navigate("Teams");
@@ -38,9 +33,19 @@ export default function ({ navigation }) {
 
     }
 
-    const onScrollHandler = () => {
-        //reset la valeur de "top" pour les items de la scrollview
-        scrollAnim.setValue(0)
+    const onScrollHandler = (e) => {
+        if (animRunning) {
+            animRunning = false
+            //on remove le listener pour garder la valeur (currentAnimValue) et ne pas reset avant de ne plus écouter
+            scrollAnim.removeAllListeners()
+            //reset la valeur de "top" pour les items de la scrollview
+            scrollAnim.setValue(0)
+            //scroll a la position actuelle pour ne pas remonter en haut de la liste lorsqu'on commence le scroll
+            scrollRef.current?.scrollTo({
+                y: -currentAnimValue.value,
+                animated: false,
+            });
+        }
     }
 
     return (
@@ -59,14 +64,17 @@ export default function ({ navigation }) {
                 <View
                     onLayout={(e) => {
                         const { x, y, width, height } = e.nativeEvent.layout;
+                        animRunning = true
+                        //listener pour récupérer le y du scroll auto pour reprendre le scroll ici lorsqu'on scroll (onScroll fired)
+                        scrollAnim.addListener((value) => { currentAnimValue = value })
                         Animated.timing(scrollAnim, {
                             toValue: -(listHeight - height),
-                            duration: 10000,
+                            duration: state.wordsList.length * 1000, //une seconde/mot pour garder une vitesse de défilement unique.
                             useNativeDriver: false
                         }).start();
                     }}
                     style={{ borderColor: "#EDFFEC", borderBottomWidth: 2, borderTopWidth: 2, height: "60%", width: "80%" }}>
-                    <ScrollView scrollEventThrottle={16} onScroll={onScrollHandler} style={{}} contentContainerStyle={{ padding: 20 }} >
+                    <ScrollView ref={scrollRef} scrollEventThrottle={16} onScroll={(e) => onScrollHandler(e)} style={{}} contentContainerStyle={{ padding: 20 }} >
                         {state.wordsList.reverse().map((word, i) => {
                             return (
                                 <Animated.View key={i} style={{ marginBottom: 20, top: scrollAnim }}>
