@@ -3,6 +3,8 @@ import { View, Image, ScrollView, Animated } from "react-native";
 
 import BottomButton from "../components/BottomButton"
 import CustomText from "../components/CustomText";
+import Confetti from '../components/Confetti.jsx';
+
 
 import { StateContext } from "../provider/StateProvider";
 
@@ -50,6 +52,7 @@ export default function ({ navigation }) {
 
     return (
         <View style={[styles.gameover_container, state.winner === "jaune" ? { backgroundColor: "#F2BB08" } : {}]}>
+            <Confetti/>
             <View style={styles.gameover_top_container}>
                 {
                     state.winner === "jaune"
