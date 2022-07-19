@@ -52,7 +52,7 @@ export default function ({ navigation }) {
 
     return (
         <View style={[styles.gameover_container, state.winner === "jaune" ? { backgroundColor: "#F2BB08" } : {}]}>
-            <Confetti/>
+            <Confetti />
             <View style={styles.gameover_top_container}>
                 {
                     state.winner === "jaune"
@@ -71,11 +71,12 @@ export default function ({ navigation }) {
                         //listener pour récupérer le y du scroll auto pour reprendre le scroll ici lorsqu'on scroll (onScroll fired)
                         scrollAnim.addListener((value) => { currentAnimValue = value })
                         Animated.timing(scrollAnim, {
-                            toValue: -(listHeight - height),
+                            toValue: listHeight > height ? -(listHeight - height) : 0, //on scroll uniquement si lz list est plus longue que la view
                             duration: state.wordsList.length * 1000, //une seconde/mot pour garder une vitesse de défilement unique.
                             useNativeDriver: false
                         }).start();
-                    }}
+                    }
+                    }
                     style={{ borderColor: "#EDFFEC", borderBottomWidth: 2, borderTopWidth: 2, height: "60%", width: "80%" }}>
                     <ScrollView ref={scrollRef} scrollEventThrottle={16} onScroll={(e) => onScrollHandler(e)} style={{}} contentContainerStyle={{ padding: 20 }} >
                         {state.wordsList.reverse().map((word, i) => {
